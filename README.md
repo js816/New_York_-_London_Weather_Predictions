@@ -2,4 +2,5 @@
 
 # Communication protocol
 First step - use group slack channel.
-If no response within a day or in case of an emergency, use group text message.
+
+If no response within a day or in case of an emergency, use group or individual text message.
