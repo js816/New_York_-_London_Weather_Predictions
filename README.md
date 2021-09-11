@@ -18,6 +18,8 @@ The dataset contains monthly weather data for Heathrow (London Airport) from Jan
 * Mean daily maximum temperature
 * Mean daily minimum temperature
 * Total rainfall
+* Air frost days
+* Total monthly sunshine  (the device for measuring sunshine changed 9/2005.  Removed # indicator from sunshine data in Excel using substitute formula suggested here:  https://spreadsheetplanet.com/remove-specific-character-from-string-excel/)
 
 The data was loaded into a DataFrame and grouped by month.  Averages and minimum and maximum values were generated.
 
