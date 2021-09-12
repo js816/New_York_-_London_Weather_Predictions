@@ -1,0 +1,23 @@
+--This is to make the tables to hold the weather data
+CREATE TABLE london (
+	years INT NOT NULL,
+    months INT NOT NULL,
+    tmax_degC INT,
+    tmin_degC INT,
+    rain_mm INT,
+    tmax_degF INT,
+    tmin_degF INT,
+    monthly_total_precip INT
+);
+
+CREATE TABLE new_york (
+	years INT NOT NULL,
+    months INT NOT NULL,
+    tmax_degC INT,
+    tmin_degC INT,
+    rain_mm INT,
+    tmax_degF INT,
+    tmin_degF INT,
+    monthly_total_precip INT,
+    monthly_total_snowfall INT
+);
