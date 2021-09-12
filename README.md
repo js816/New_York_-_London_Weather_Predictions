@@ -5,6 +5,17 @@ First step - use group slack channel.
 
 If no response within a day or in case of an emergency, use group or individual text message.
 
+# Machine Learning Model
+
+![ML_mock_up](https://user-images.githubusercontent.com/82730954/132999771-d43477d1-127c-437c-9d9d-f4c265174024.PNG)
+
+For our ML model, a neural network was selected to take in the inputs (including minimum temperature, precipitation/snowfall, and, for London, air frost days and monthly sun hours).  This model was selected in an attempt to leverage the flexibility of the various hidden layers, neurons, activation functions, etc.
+
+The input data is scaled and our model is fitted on the training subset.  Our model then predicts the monthly mean high temperature for the testing subset.  The model is evaluated based upon loss and mean squared error (MSE).
+
+We’re hopeful that our model can be used to present months that match a travelers desired high temperature.
+
+
 # Datasets
 
 ## Weather data
