@@ -18,7 +18,7 @@ So, let’s get started.<br/>
 ## Tools & Technologies: 
 <li>	Excel for initial csv file data exploration and some cleaning. </li> <br/> 
 
-<li>	Jupiter Notebook using PANDAS & Python to further explore data, clean the data, and train the model. </li> <br/> 
+<li>	Jupiter Notebook using Python & PANDAS library to further explore data, clean the data, and train the model. </li> <br/> 
 
 <li>	Data Storage: Mongo DB to store our weather data for predictive modeling. </li> <br/> 
 
