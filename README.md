@@ -1,16 +1,14 @@
-# Final_Project_Travel
+#  Final_Project_Travel 
 
 ## Team:
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 
 ## Story:
-Grab your walking shoes, cameras, and water bottle, it is time to explore “The Big Apple” or “The City”, aka, New York City or London, respectively. <br/><br/>
+Before you grab your walking shoes, cameras, and water bottle, to explore “The Big Apple” or “The City”, you will need to plan for your big city vacation adventure and we are here to help.<br/>
 
-But don’t get too ahead of yourself and pack your bags just yet. You need to take a step back and plan for your big city vacation adventure.<br/><br/>
+The first question you may ask yourself is, "when should I book my trip?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/>
 
-The first question you may ask yourself is, "when should I book my trip?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/><br/>
-
-But that is not all, we would like to provide additional resources to get the most out of your vacation by creating a layered map that will guide you when building your daily itenary. <br/>
+But that is not all, we would like to provide additional resources to get the most out of your vacation by creating a layered map that can be used to build out your daily itenary. <br/>
 <li>	First, we would like to provide optional hotel accommodations that meet a minimum rating threshold. </li>
 <li>	Second, we would like to provide suggested points of interests and group them together by area so you can make the most out of each day. </li>
 <li>	Third, we realize how important it is to find a good restaurant near your activities and lodging as well as how it can add to the cultural experience, so we would like to display “What restaurants are in the area and how good they are” on the layered map.</li> <br/>
