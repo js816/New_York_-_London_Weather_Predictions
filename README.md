@@ -1,4 +1,4 @@
-#  Final_Project_Travel_Deliverable_1
+#  Final_Project_Travel - Deliverable 1
 
 ## Team:
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
