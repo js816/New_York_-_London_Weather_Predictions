@@ -22,7 +22,7 @@ So, let’s get started.<br/>
 
 <li>	Jupiter Notebook using PANDAS & Python to further explore data, clean the data, and train the model. </li> <br/> 
 
-<li>	Data Storage: Mongo DB to store our weather data for predictive modeling. </li> <br/> 
+<li>	Data Storage: Mongo DB to store our weather data for predictive modeling utilizing postgresql. </li> <br/> 
 
 <li>	Tableau to develop our interactive dashboard and create a layered map with points of interest for a vacation in NYC or London. Points of interest will include hotels, eateries, and attractions and will be loaded with csv files.</li> <br/> 
 
