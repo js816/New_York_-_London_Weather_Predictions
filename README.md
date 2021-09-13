@@ -6,7 +6,7 @@ Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 ## Story:
 Before you grab your walking shoes, cameras, and water bottle, to explore “The Big Apple” or “The City”, you will need to plan for your big city vacation adventure and we are here to help.<br/>
 
-The first question you may ask yourself is, "when should I book my trip?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/>
+The first question you may ask yourself is, "when should I book my trip to NYC or to London?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/>
 
 But that is not all, we would like to provide additional resources to get the most out of your vacation by creating a layered map that can be used to build out your daily itenary. <br/>
 <li>	First, we would like to provide optional hotel accommodations that meet a minimum rating threshold. </li>
