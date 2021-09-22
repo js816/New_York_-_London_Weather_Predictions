@@ -8,19 +8,31 @@ If no response within a day or in case of an emergency, use group or individual 
 
 # Machine Learning Model
 
-![ML_mock_up](https://user-images.githubusercontent.com/82730954/132999771-d43477d1-127c-437c-9d9d-f4c265174024.PNG)
+![image](https://user-images.githubusercontent.com/82730954/134412569-9a566a18-0e42-45be-b2c7-889253558ee8.png)
 
-For our ML model, a neural network was selected to take in the inputs (including minimum temperature, precipitation/snowfall, and, for London, air frost days and monthly sun hours).  This model was selected in an attempt to leverage the flexibility of the various hidden layers, neurons, activation functions, etc.
+For our ML model, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model.  We made this change because we felt that the model was easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing this model, however, we lose the ability to leverage various options such as the number of hidden layers, the number of neurons in each hidden layer, and various activation functions.
 
-The input data is scaled and our model is fitted on the training subset.  Our model then predicts the monthly mean high temperature for the testing subset.  The model is evaluated based upon loss and mean squared error (MSE).
+Historical weather data is accessed from a PostgreSQL database.  A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature.  The weather features that our models predict are:
+* average monthly high temperature
+* total monthly rainfall
+* total monthly snowfall (NYC only)
+* total monthly sunshine hours (London only)
 
-We’re hopeful that our model can be used to present months that match a travelers desired high temperature.
+Minimal data cleaning was performed during the EDA and prior to the data being stored in the database.  Months were removed where values were missing.  Indicators of changes in sunshine measurement devices were removed from the value.  Our dataset does not contain any categorical data thus no encoding was performed.  
+
+We used Scikit-learn's train_test_split to separate our dataset into training sets and testing sets.  Each model is trained on 75% of the dataset and tested on the remaining 25%.  To evaluate our models, we utilized Mean Squared Error.  
+
+We compared performance of these models to models that included data for months and used month as an input.  When comparing model performance, the individual monthly models generally had much better performance.  For the rainfall model, however, the combined model performed slightly better.  For consistency purposes, all models were broken out into individual months.  Graphs were created with a scatter plot for training and testing data and a line for the prediction model.  To create the predicted weather ranges for each city, we used the Mean Absolute Error -/+ the predicted value.  We then rounded the total rainfall to the nearest tenth of an inch.  For other weather features, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.  An example for London is shown below:
+
+![image](https://user-images.githubusercontent.com/82730954/134411442-b45c643e-ff0f-4fd5-8904-52c72d0bb793.png)
+
+
 
 
 # Technologies to be used
 
 * Tableau for mapping and prompting user to select desired temperature
-* MongoDB for storage and retrieval
+* PostgreSQL for data storage
 * Jupyter Notebook for EDA, cleaning, machine learning
 
 
