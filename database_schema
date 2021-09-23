@@ -1,22 +1,21 @@
---This is to make the tables to take in the weather data
-CREATE TABLE london_imported (
+--This is to make the tables to hold the weather data
+CREATE TABLE london (
 	years INT NOT NULL,
     months INT NOT NULL,
     tmax_degC INT,
     tmin_degC INT,
-    af_days INT,
     rain_mm INT,
-    sun_hours INT
+    tmax_degF INT,
+    tmin_degF INT,
+    monthly_total_precip INT
 );
 
-CREATE TABLE new_york_imported (
+CREATE TABLE new_york (
 	years INT NOT NULL,
     months INT NOT NULL,
     tmax_degC INT,
     tmin_degC INT,
-    af_days INT,
     rain_mm INT,
-    sun_hours INT,
     tmax_degF INT,
     tmin_degF INT,
     monthly_total_precip INT,
