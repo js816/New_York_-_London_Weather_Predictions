@@ -1,0 +1,24 @@
+# Modify this code to update the DB schema diagram.
+# To reset the sample schema, replace everything with
+# two dots ('..' - without quotes).
+
+london_weather_yyyy_mm
+-
+index PK int
+year int
+month_num int
+avg_high_temp_f num
+avg_low_temp_f num
+total_rainfall_inches num
+days_of_air_frost int
+total_sunshine_duration_hours num
+
+nyc_weather_yyyy_mm
+-
+index PK int
+year int
+month_num int
+avg_high_temp_f num
+avg_low_temp_f num
+avg_total_precipitation_inches num
+avg_total_snowfall_inches num
