@@ -3,10 +3,13 @@
 ## Team:
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 
-## Big Why:
-Our team chose this project for the pu
+## Why did we choose this topic:
+Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how fun it would be to plan a trip to a few major cities creating an interactive layered map visualization in tableau.    
 
 ## Story:
+
+https://docs.google.com/presentation/d/1yE4ZaJOmCI6Fx8ocG51ZpReybJVQFVDSGJyaRh34tyg/edit#slide=id.p
+
 Before you grab your walking shoes, cameras, and water bottle, to explore “The Big Apple” or “The City”, you will need to plan for your big city vacation adventure and we are here to help.<br/>
 
 The first question you may ask yourself is, "when should I book my trip to NYC or London?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/>
