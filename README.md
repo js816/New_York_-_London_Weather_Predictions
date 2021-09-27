@@ -3,6 +3,9 @@
 ## Team:
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 
+## Big Why:
+Our team chose this project for the pu
+
 ## Story:
 Before you grab your walking shoes, cameras, and water bottle, to explore “The Big Apple” or “The City”, you will need to plan for your big city vacation adventure and we are here to help.<br/>
 
