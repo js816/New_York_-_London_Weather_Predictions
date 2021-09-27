@@ -4,7 +4,7 @@
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 
 ## Why did we choose this topic:
-Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how fun it would be to plan a trip to a few major cities creating an interactive layered map visualization in tableau.    
+Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how fun it would be to plan a trip to a few major cities creating an interactive layered map visualization in tableau that allows you to create an itinerary.    
 
 ## Story:
 
@@ -101,7 +101,7 @@ Data.gov was used and these were all the datasets pulled<br/>
 <li>	https://catalog.data.gov/dataset/nyc-parks-monuments </li> <br/>
 Although the format differed between most of the datasets, they all had a name, most had an address, and all had latitude and longitude in one form or another<br/><br/>
 
-### Restaurant Locations and Ratings:
+### Restaurants:
 https://www.yelp.com/developers/documentation/v3/business_search<br/>
 We originally were going to use YELP dataset via kaggle, however found that the dataset offered was limited. For example there were only three restaurants in NYC. Therefore, we decided to utilize the Yelp Business Search API.<br/><br/>
 
