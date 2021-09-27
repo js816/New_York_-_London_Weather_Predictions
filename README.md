@@ -20,9 +20,9 @@ So, let’s get started.<br/>
 
 <li>	Jupiter Notebook using Python & PANDAS library to further explore data, clean the data, and train the model. </li> <br/> 
 
-<li>	Data Storage: Chose to change from Mongo DB to a PostgreSQL DB with this deliverable to store our weather data for predictive modeling. </li> <br/> 
+<li>	Data Storage: Chose to change from Mongo DB to a PostgreSQL DB with this deliverable to store our weather data for predictive modeling. Please see the schema below. </li> <br/> 
 
-
+![image](https://user-images.githubusercontent.com/82008319/134836752-e36d1b39-bd09-4849-a8a6-cb9532132fef.png)
 
 <li>	Tableau to develop our interactive dashboard and create a layered map with points of interest for a vacation in NYC or London. Points of interest will include hotels, eateries, and attractions and will be loaded with csv files.</li> <br/> 
 
@@ -32,10 +32,10 @@ So, let’s get started.<br/>
 
 Historical weather data is accessed from a PostgreSQL database. A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature. The weather features that our models predict are:
 
-average monthly high temperature
-total monthly rainfall
-total monthly snowfall (NYC only)
-total monthly sunshine hours (London only)
+<li>	average monthly high temperature</li> 
+<li>	total monthly rainfall</li> 
+<li>	total monthly snowfall (NYC only)</li> 
+<li>	total monthly sunshine hours (London only)</li> <br/>  
 
 We used Scikit-learn's train_test_split to separate our dataset into training sets and testing sets. Each model is trained on 75% of the dataset and tested on the remaining 25%. To evaluate our models, we utilized Mean Squared Error (MSE).
 
@@ -45,9 +45,7 @@ In preliminary versions of our models, graphs were created with a scatter plot f
 
 To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value. We then rounded the total rainfall to the nearest tenth of an inch. For other weather features, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.
 
-Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature. An example for London is shown below:
-
-</li> <br/>
+Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature. An example for London is shown below:<br/>
 
 ## Data Sources:
 ### Weather Data:
