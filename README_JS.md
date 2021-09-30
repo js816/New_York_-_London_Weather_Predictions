@@ -1,18 +1,13 @@
 # Final_Project_Travel
 
-# Communication protocol
-First step - use group slack channel.
-
-If no response within a day or in case of an emergency, use group or individual text message.
-
 
 # Machine Learning Model
 
 ![image](https://user-images.githubusercontent.com/82730954/134412569-9a566a18-0e42-45be-b2c7-889253558ee8.png)
 
-For our ML model, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model.  We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.
+For our ML model, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model.  We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.  
 
-Historical weather data is accessed from a PostgreSQL database.  A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature.  The weather features that our models predict are:
+Historical weather data was accessed from a PostgreSQL database.  A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature.  The weather features that our models predict are:
 * average monthly high temperature
 * total monthly rainfall
 * total monthly snowfall (NYC only)
@@ -26,12 +21,26 @@ We compared performance of these individual-month models to models that included
 
 In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  
 
-To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value.  We then rounded the total rainfall to the nearest tenth of an inch.  For other weather features, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.  
+To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value.  We then rounded the total rainfall and snowfall to the nearest tenth of an inch.  For temperature and sunshine hours, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.  
 
 Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature.  An example for London is shown below:
 
 ![image](https://user-images.githubusercontent.com/82730954/134777236-cacda1c0-c73a-4030-aac7-fce428254126.png)
 
+To ensure that we use the most appropriate model, we also created a neural network linear model and compared model performance.  We found that overall, model performance was generally better with the simple linear model.  For isolated months for some features had better performance.  For rainfall data the neural network model was slightly better.  Though the impact to our predictions would have been very minimal.  With greater customization of the various options, neural networks could prove to provide better experience at some point.  However, due to the simplicity and ease of use and interpretation, we decided to use the simple linear model for all predictions.  
+
+Model performance varied.  Some factors influencing this include:
+* monthly weather variance from year to year
+* varying makeup of training and testing data
+* varying weather features and scales
+
+Mean Squared Error (MSE) for our high temp models varied from a low of 2.6 (August New York) to a high of 22.4 (January New York).  The average MSE for London was 8.8.  New York's average MSE was 10.3.
+
+For rainfall, MSE ranged from 0.78 (July London) to 20.67 (August New York).  The average for London was 1.48.  New York averaged 6.91.
+
+For London sunshine, MSE was significantly higher given the increased scale of sunshine hours per month, ranging from 163 (December) to 2249 (June).  The average was 977.
+
+For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February).  The average was 14.65.
 
 # Technologies
 
