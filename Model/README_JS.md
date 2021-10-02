@@ -5,7 +5,11 @@
 
 ![image](https://user-images.githubusercontent.com/82730954/134412569-9a566a18-0e42-45be-b2c7-889253558ee8.png)
 
+## Model selection
+
 For our ML model, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model.  We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.  
+
+## Model development
 
 Historical weather data was accessed from a PostgreSQL database.  A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature.  The weather features that our models predict are:
 * average monthly high temperature
@@ -21,13 +25,19 @@ We compared performance of these individual-month models to models that included
 
 In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  
 
+## Prediction creation
+
 To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value.  We then rounded the total rainfall and snowfall to the nearest tenth of an inch.  For temperature and sunshine hours, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.  
 
 Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature.  An example for London is shown below:
 
 ![image](https://user-images.githubusercontent.com/82730954/134777236-cacda1c0-c73a-4030-aac7-fce428254126.png)
 
+## Comparing simple linear model to neural network
+
 To ensure that we use the most appropriate model, we also created a neural network linear model and compared model performance.  We found that overall, model performance was generally better with the simple linear model.  For isolated months for some features had better performance.  For rainfall data the neural network model was slightly better.  Though the impact to our predictions would have been very minimal.  With greater customization of the various options, neural networks could prove to provide better experience at some point.  However, due to the simplicity and ease of use and interpretation, we decided to use the simple linear model for all predictions.  
+
+## Model performance
 
 Model performance varied.  Some factors influencing this include:
 * monthly weather variance from year to year
@@ -41,6 +51,15 @@ For rainfall, MSE ranged from 0.78 (July London) to 20.67 (August New York).  Th
 For London sunshine, MSE was significantly higher given the increased scale of sunshine hours per month, ranging from 163 (December) to 2249 (June).  The average was 977.
 
 For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February).  The average was 14.65.
+
+## Weather predictions
+
+Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible.  We used a number of suggestions from *Storytelling with Data: A Data Visualization Guide for Business Professionals* by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity.  We also used an [online simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that those who are color blind can differentiate between highs and lows.
+
+![london_weather_predictions](https://user-images.githubusercontent.com/82730954/135716643-937406d0-f9c1-4d93-bcc2-7e65f742f486.png)
+
+![nyc_weather_predictions](https://user-images.githubusercontent.com/82730954/135716650-302853ec-9704-4b79-9fdb-63bf243a4480.png)
+
 
 # Technologies
 
