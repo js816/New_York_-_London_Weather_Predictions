@@ -1,0 +1,62 @@
+,Lodging,Type,Rating,Price,Address,Lat,Lng,url,ID
+0,Minicabit,Airport Shuttles,,,80-83 Long Lane,51.5195401,-0.0986683,,
+1,Twelve Transfers,Airport Shuttles,,,,51.5371932983398,0.0706439986824989,,
+2,William Hemming Associates,Apartment Agents,,,,51.4924392700195,-0.165040001273155,,
+3,skylark B & B,Bed & Breakfast,,,297 Bath Rd,51.4719334,-0.3822922,,
+4,Budget Car Rental,Car Rental,,,Northrop Road,51.479901,-0.431261,,
+5,Juliette's Guest House,Guest Houses,,,29 Dawson Pl,51.512094,-0.197425,,
+6,The Windmill Guest House,Guest Houses,3.0,££,57 Cricklewood Broadway,51.5535221,-0.2119243,https://www.yelp.com/biz/the-windmill-guest-house-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,KDfl9NmXb4Er_bdXQyqRLg
+7,Fantastic Cleaners,Home Cleaning,,,Tooley Street,51.5044038,-0.0824881,,
+8,Homeclean,Home Cleaning,,,271 Eversholt Street,51.534176,-0.1383,,
+9,3pleclean,Home Cleaning,,,,51.506420135498,-0.127210006117821,,
+10,Restup,Hostels,,,172 New Kent Road,51.4938653720948,-0.0906588734718525,,
+11,The Dictionary Hostel,Hostels,,,12-20 Kingsland Road,51.5277074573188,-0.0778712770395991,,
+12,Sohostel,Hostels,,,91 Dean Street,51.5150779089329,-0.133680928287407,,
+13,Leman Locke,Hotels,4.5,£££,15 Leman Street,51.5145665,-0.0710777,https://www.yelp.com/biz/leman-locke-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Ba9zwE0V_gj_JaIgdxe8sA
+14,Point A Hotel London - Westminster,Hotels,,,118-120 Westminster Bridge Rd,51.4991150896639,-0.112530402839184,,
+15,DoubleTree By Hilton Hotel London - Victoria,Hotels,3.5,£££,2 Bridge Place,51.4939289134206,-0.143322030594069,https://www.yelp.com/biz/doubletree-by-hilton-hotel-london-victoria-london-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,wvO3KoWHOZW4sMebZohsjw
+16,DoubleTree by Hilton Hotel London - West End,Hotels,3.0,££,92 Southampton Row,51.5202715055578,-0.121863203559605,https://www.yelp.com/biz/doubletree-by-hilton-hotel-london-west-end-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,rCAmc_cKX5KAUHrZ9MUepg
+17,Columbia Hotel,Hotels,3.5,££,95-99 Lancaster Gate,51.5114958,-0.1795872,https://www.yelp.com/biz/columbia-hotel-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Kgop6RGkXKoBP7dHSDXCCg
+18,88 Studios,Hotels,3.5,££,88 Holland Road,51.4992798,-0.2091135,https://www.yelp.com/biz/88-studios-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Hl46n5tO4SvTRNOQ85kukA
+19,CitizenM Hotel,Hotels,4.5,££,20 Lavington Street,51.5051155599748,-0.098283347856649,https://www.yelp.com/biz/citizenm-hotel-london-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1tyiyRStaEuq_0hBc6ypCg
+20,Thistle Kensington Gardens,Hotels,3.0,££,104 Bayswater Road,51.5109254,-0.1838732,https://www.yelp.com/biz/thistle-kensington-gardens-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nIPi8iSdlG3SlpRL0_ePtw
+21,Holiday Inn ,Hotels,3.5,££,Carburton Street,51.5225489331923,-0.142724030932378,https://www.yelp.com/biz/holiday-inn-london-27?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hLzmh0Lq2cHJDDntlnNeuw
+22,Residence Inn by Marriott,Hotels,4.0,££,201 - 211 Long Lane,51.4987162467047,-0.0841357962951861,https://www.yelp.com/biz/residence-inn-by-marriott-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,VWTYSnuV3IDJJjSk7kzMkw
+23,Thistle City Barbican Hotel,Hotels,3.0,££,120 Central Street,51.5274751,-0.0969153,https://www.yelp.com/biz/thistle-city-barbican-hotel-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,xawtwMNiOkskcvgQohFUNQ
+24,Holiday Inn London - Kensington,Hotels,2.5,£££,Wrights Lane,51.4988245259061,-0.191950977925019,https://www.yelp.com/biz/holiday-inn-london-kensington-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Ut5NZhcbl1bElj1JEIPmTg
+25,The Kensington Hotel,Hotels,4.5,£££,109 - 113 Queen's Gate,51.492559,-0.1780645,https://www.yelp.com/biz/the-kensington-hotel-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hGJkHYD10mPIh-R_xrUQNg
+26,Pembury Hotel,Hotels,,,326 - 328 Seven Sisters Road,51.56598,-0.10204,,
+27,Hilton Garden Inn London Heathrow Airport,Hotels,4.0,££,Eastern Perimeter Road,51.4681555455725,-0.419068933362628,https://www.yelp.com/biz/hilton-garden-inn-london-heathrow-airport-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,XtsuXYJnSbS3hw0qnsuTBQ
+28,Hilton London Wembley,Hotels,3.0,£££,Lakeside Way,51.5573196411133,-0.283809006214142,https://www.yelp.com/biz/hilton-london-wembley-wembley?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,siDpmUF4bhnLHYo3z4wBSg
+29,Moxy London Heathrow Airport,Hotels,3.0,££,804 Bath Road,51.480226,-0.414795,https://www.yelp.com/biz/moxy-london-heathrow-airport-hounslow-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hShwCJPf-A0RjFam_I_V-A
+30,Hotel Ibis Heathrow,Hotels,3.0,£,112 Bath Road,51.4808865597196,-0.430631377662583,https://www.yelp.com/biz/hotel-ibis-heathrow-hayes?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,p4ew7JO_a6Gj3NDHo2G0sg
+31,Marlin Waterloo,Hotels,4.0,££,111 Westminster Bridge Road,51.4992169,-0.1130701,https://www.yelp.com/biz/marlin-waterloo-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,JO-K5sPXnOBpyfSxm02uWA
+32,The Ampersand Hotel,Hotels,4.5,£££,10 Harrington Road,51.4943093699229,-0.1755579,https://www.yelp.com/biz/the-ampersand-hotel-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,zRWecrLR6rjSkEkxoCvyCA
+33,Premier Inn,Hotels,3.0,££,88 Euston Road,51.5284598,-0.1270915,https://www.yelp.com/biz/premier-inn-london-35?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,FVO-zsFAMKMfWUcRQQq_Ag
+34,The Z Hotel,Hotels,3.5,££,51 Gloucester Place,51.518144,-0.158343,https://www.yelp.com/biz/the-z-hotel-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hfpBEYTt58gr5Nxk4W0W7g
+35,Premier Inn,Hotels,3.5,££,County Hall,51.5026057302504,-0.1181543888855,https://www.yelp.com/biz/premier-inn-london-33?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,GFgFEF4ghF1aqohh54klXw
+36,Residence Inn by Marriott London Kensington,Hotels,3.0,££,181-183 Warwick Rd,51.4936447143555,-0.20218800008297,https://www.yelp.com/biz/residence-inn-by-marriott-london-kensington-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,CPArXY7C2-J9bPMdxImD8Q
+37,Belle Cour Hotel & SPA,Hotels,2.0,£££,4 Upper Tachbrook Street,51.4932327,-0.1397839,https://www.yelp.com/biz/belle-cour-hotel-and-spa-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,mhy7rOYXBZe9Mkh4ItRAsg
+38,Landmark Apartments,Hotels,2.5,££,28-30 Rivington Street,51.5259472171549,-0.0822431630711833,https://www.yelp.com/biz/landmark-apartments-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,zdxxuEB043cyX6kZI7bzWg
+39,Astor Court Hotel,Hotels,3.0,££,20 Hallam Street,51.519802,-0.14317,https://www.yelp.com/biz/astor-court-hotel-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,0wB6Ps7T6cMY8JAA4s8BRg
+40,Hilton London Angel Islington,Hotels,3.5,££,53 Upper Street,51.5362022,-0.1048415,https://www.yelp.com/biz/hilton-london-angel-islington-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,UIF5fUJ11b62WT0tW17Akg
+41,Comfort Inn Edgware Road,Hotels,,,450 Edgware Road,51.5233231,-0.1745747,,
+42,Sanderson Hotel,Hotels,4.0,£££,50 Berners Street,51.517469,-0.13724,https://www.yelp.com/biz/sanderson-hotel-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,WSmvqMrRs3P-CgTQwdws3g
+43,Olympic House,Hotels,3.5,££,138-140 Sussex Gardens,51.5154356,-0.1729402,https://www.yelp.com/biz/olympic-house-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,I-9u_WC-WBqlsNSJ324f3A
+44,Travelodge Hotel,Hotels,4.5,£,195 -203 Waterloo Road,51.5006142,-0.1078255,https://www.yelp.com/biz/travelodge-hotel-london-10?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,NOyRSiG5k4BmBlhyOXxZAg
+45,Royal Oak Hotel,Hotels,2.0,£££,High Street,51.26871,0.1937599,https://www.yelp.com/biz/royal-oak-hotel-sevenoaks?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,qm0aLs1uUH4rXWQXNS6c0A
+46,The Z Hotel ,Hotels,4.0,££,136-144 City Road,51.5268102,-0.0883364,https://www.yelp.com/biz/the-z-hotel-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,0rTsnYGt_8u7yxs8Xg6Ufw
+47,"Holiday Inn Express - Ealing, London",Hotels,4.5,£££,75 Broadway,51.5098193,-0.3248211,https://www.yelp.com/biz/holiday-inn-express-ealing-london-ealing?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,dASdaKgRlRk5hQH7Pacdnw
+48,Travelwifi,Internet Service Providers,,,222 Kensal Road,51.526257,-0.208762,,
+49,Emirates Air Line - Greenwich Peninsula,Public Transportation,,,Greenwich Peninsula,51.499783261712,0.00820117802565079,,
+50,London Short Letting,Real Estate,,,102 George Street,51.51769,-0.154474,,
+51,Keynest - Smart Key Exchange,Real Estate Services,,,1 Frederick's Pl,51.5142645,-0.0912244,,
+52,Victory Services Club,Social Clubs,4.5,££,63-79 Seymour Street,51.513906,-0.162217,https://www.yelp.com/biz/victory-services-club-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,c1v7Niifty12aF8J6GH9lQ
+53,Data Cars,Taxis,,,94 Lee High Road Lewisham,51.4611575,-0.006084,,
+54,Viator,Tours,,,Southbank House Black Prince Rd,51.492228,-0.119888,,
+55,The Original London Sightseeing Tour,Tours,,,17-19 Cockspur Street,51.507524,-0.130541,,
+56,Premium Tours,Travel Services,,,2A Brackley Road,51.4924656,-0.2545921,,
+57,Parislondonapartments,Vacation Rental Agents,,,9 Brompton Place,51.49838,-0.16397,,
+58,"The Harpy Houseboat, Tower Bridge",Vacation Rentals,,,River Thames,51.5023764262581,-0.0703685570431389,,
+59,LSE Grosvenor House,Vacation Rentals,,,141-143 Drury Lane,51.5143465191805,-0.121290050331936,,
+60,onefinestay,Vacation Rentals,,,300 St John Street,51.5247,-0.107248,,
