@@ -1,0 +1,164 @@
+,Restaurant,Type,Rating,Price,Address,Lat,Lng,url,ID
+0,Lagos Island,African,,,417 Lea Bridge Road,51.571678,-0.022005,,
+1,Lekki Restaurant and Bar,African,,,323 Kingsland Road,51.5386490144945,-0.0768696981475614,,
+2,Baba Foundation,African,5.0,£,1332 London Road,51.4080551,-0.1215169,https://www.yelp.com/biz/baba-foundation-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,O_oGelZj2mpvV09P5kwvjw
+3,Tony's Restaurant and Bar,American (Traditional),3.0,£££,28 Brixton Water Lane,51.4551766,-0.1131342,https://www.yelp.com/biz/tonys-restaurant-and-bar-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1HcfWDI8rA9BbMC0bb4rFg
+4,Three Little Birds,Bars,4.0,££,412 Coldharbour Lane,51.46169,-0.11325,https://www.yelp.com/biz/three-little-birds-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,-HOjNYqs6a3MKKYkvDf5Pg
+5,Camino,Bars,3.5,££,3 Varnishers Yard,51.5312937277784,-0.121793746948242,https://www.yelp.com/biz/camino-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,OyLrjCVSSp5UUAYe9Vm0Hg
+6,Banner's Restaurant,Breakfast & Brunch,4.0,££,21 Park Road,51.5805632029117,-0.124239921569824,https://www.yelp.com/biz/banners-restaurant-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,20wbHVznGl8DZorCyjzvXA
+7,Rhythm Kitchen,Caribbean,3.0,££,Montfichet Road,51.5428940087622,-0.00655096024274826,https://www.yelp.com/biz/rhythm-kitchen-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,iUPTuzv5oISbGBJZH6pu3w
+8,Turtle Bay,Caribbean,3.5,££,382-384 Brixton Road,51.4660261223168,-0.113898024601562,https://www.yelp.com/biz/turtle-bay-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,TRead8vIYyKXr3FxyYWFyA
+9,Mahoe,Caribbean,3.5,££,74-82 Queen Victoria Street,51.5125961303711,-0.0936269983649254,https://www.yelp.com/biz/mahoe-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,61vNq2UPPI8d0JnnO5X2Qg
+10,Tasty Jerk,Caribbean,,,Artworks Unit 15,51.493198411546,-0.0983991406143332,,
+11,Eaton's Jerk Corner,Caribbean,,,1-1a Downs Court Parade,51.54973,-0.060401,,
+12,Yum Yum Caribbean Cuisine,Caribbean,3.0,£,30-32 Lymington Avenue,51.6605338,-0.0579312,https://www.yelp.com/biz/yum-yum-caribbean-cuisine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Gi9IXZnoY1ngg_u84TcSRg
+13,Turtle Bay,Caribbean,4.0,££,15 High Street,51.5117086668072,-0.304681174457073,https://www.yelp.com/biz/turtle-bay-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,U9ozt7-1P_NWoD63rxqvJA
+14,Umana Yana,Caribbean,5.0,£,294 Croxted Road,51.4504519318343,-0.100384671736843,https://www.yelp.com/biz/umana-yana-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,UU69_4fwSux7JJf83nLTbQ
+15,Treats & Ting,Caribbean,5.0,£,25 Tulse Hill,51.4545419634841,-0.113166086375713,https://www.yelp.com/biz/treats-and-ting-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,4R2Co_GWlRI712P9P0FP8Q
+16,Love Gift Vegan,Caribbean,,,386 Lee High Rd,51.4569312,0.0090325,,
+17,Finger Licking Carribean Takeaway,Caribbean,,,40 Clarence Road,51.5507621765137,-0.0552799999713898,,
+18,Jerk Chicken,Caribbean,,,209 Walworth Road,51.489102,-0.096016,,
+19,Jerk Hut,Caribbean,3.5,££,257 Hoe St,51.581093,-0.018233,https://www.yelp.com/biz/jerk-hut-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,9beJoW9vZ5m82dYquJam2Q
+20,Caribbean HQ,Caribbean,,,3 Penton Street Islington,51.531967,-0.111518,,
+21,Rock Steady Rum Lounge,Caribbean,4.5,££,128 Gipsy Hill,51.4246461122253,-0.0835256720280645,https://www.yelp.com/biz/rock-steady-rum-lounge-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,KPZPK_J-4iV1wkEmPjnQVg
+22,Casablanca,Caribbean,,,170 Sandringham Road,51.550272,-0.064373,,
+23,Intimate Island Inn,Caribbean,,,85 Ballards Lane,51.6035198771846,-0.189062124533264,,
+24,Turtle Bay,Caribbean,4.0,££,Unit 7,51.3724581895417,-0.100943480560116,https://www.yelp.com/biz/turtle-bay-croydon?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,gkjFTbIAU0SkTmKrc0GjcQ
+25,Pumpkin Rice,Caribbean,4.5,£,1 Greenhill Parade,51.6468611301172,-0.186419173039058,https://www.yelp.com/biz/pumpkin-rice-new-barnet?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Ac3Ye78smtksouvHUxSnHA
+26,The Big Taste,Caribbean,,,54 Brixton Road,51.47913,-0.11206,,
+27,Flex Rite Food & Sea Bar,Caribbean,,,242 Dalston Ln,51.5493785,-0.0596595,,
+28,Refill Foods,Caribbean,4.0,£,500A Brixton Road,51.462,-0.11566,https://www.yelp.com/biz/refill-foods-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,kX3HvYkMvpSFjKs9X2YN2w
+29,Ochi Cuisine,Caribbean,2.0,££,648 High Rd Leyton,51.5694872,-0.008145,https://www.yelp.com/biz/ochi-cuisine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ESIk_2s0KuWpFVrJj3Gnxg
+30,Jerkkies,Caribbean,,,12-13 Greville Street,51.519347,-0.1075182,,
+31,Granny's,Caribbean,1.5,£,16 Stroud Green Rd,51.5690803527832,-0.110946998000145,https://www.yelp.com/biz/grannys-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,n5Vc0yPPpm83Y2Pd9cl7rQ
+32,Jerk Chicken,Caribbean,,,52 High Street,51.3986442,-0.0947982,,
+33,Mama's Jerk,Caribbean,,,Model Market,51.45916,-0.01213,,
+34,Lime,Caribbean,5.0,£,4 Granville Arcade,51.4624931,-0.1118135,https://www.yelp.com/biz/lime-brixton?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ZKVEu0bDRCcXaKERELAawA
+35,Big Bite,Caribbean,,,397 Coldharbour Lane,51.461685,-0.112305,,
+36,Kimo's,Caribbean,3.0,££,184 Stoke Newington High St,51.5618173,-0.073507,https://www.yelp.com/biz/kimos-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,sbKL7ISVxPP3STqbvvO2rA
+37,Fish Wings and Tings,Caribbean,4.0,££,99 George Street,51.3753536586456,-0.0933163377815502,https://www.yelp.com/biz/fish-wings-and-tings-croydon?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,lm0uXgE63lwb5rjeSKZrAw
+38,Caribbean Flavours,Caribbean,4.0,££,Gerry Raffles Square,51.5435793075911,0.0013001227539462,https://www.yelp.com/biz/caribbean-flavours-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,HVV8Y7DrnyGAG8DSY69mQg
+39,Etta's Seafood Kitchen,Caribbean,3.5,££,85-86 6th Avenue,51.4620623417227,-0.112524032592773,https://www.yelp.com/biz/ettas-seafood-kitchen-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,moxQJHqu96v32XEysDSvzw
+40,The A&J Restaurant And Bar,Caribbean,,,347 Lea Bridge Road,51.5708847,-0.024126,,
+41,Paradise Cove,Caribbean,,,226A Brixton Road,51.4719396,-0.1128811,,
+42,Tasty Buds,Caribbean,,,15 Ridley Road Market,51.5482258652153,-0.0745496968985848,,
+43,Caribbean Scene Family,Caribbean,2.0,££,Unit 2,51.542615,0.000242,https://www.yelp.com/biz/caribbean-scene-family-stratford?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,jGSF_ws_yVxSyhpQzYW8OA
+44,Tophill Caribean,Caribbean,,,46-48 Drayton Green Road,51.5131983902631,-0.319433244077845,,
+45,Cee Bee,Caribbean,,,289 Hertford Road,51.6337318,-0.0536757,,
+46,R23,Caribbean,,,99 Brixton Hill,51.4548229,-0.119474,,
+47,The Dutchie,Caribbean,2.5,££,3 High St,51.372704,-0.100677,https://www.yelp.com/biz/the-dutchie-restaurant-and-cocktail-bar-croydon?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,lWHlT5F-QkXV-klSs9RKtA
+48,Guava,Caribbean,,,23 Green Lanes,51.5526569,-0.0870438,,
+49,Turtle Bay,Caribbean,3.5,££,269 High Street,51.5850228819357,-0.0197887699261501,https://www.yelp.com/biz/turtle-bay-london-5?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,VoPEZEgjSEfYR9Kolj8XCw
+50,Imperial Flavors,Caribbean,,,11 Malvern Road,51.528054073134,-0.19743053174519,,
+51,the hill n10,Caribbean,3.5,££,56 Muswell Hill,51.589898,-0.1387028,https://www.yelp.com/biz/the-hill-n10-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,SKgQ3JqnGMlW3nREQ8W_lg
+52,La Tropical,Caribbean,,,85 West Green Road,51.5845904,-0.0769679,,
+53,Daddy D Caribbean Takeaway,Caribbean,,,68 Beulah Road,51.4035425883221,-0.100672536555305,,
+54,Veranda,Caribbean,3.0,£££,30 Acre Lane,51.4606385389811,-0.118274688720703,https://www.yelp.com/biz/veranda-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,SDHopPM3TzMpNB-opEbwHA
+55,Tasty K Guyanese Roti Shop,Caribbean,3.5,££,Blue van Station Rd,51.463256,-0.113852,https://www.yelp.com/biz/tasty-k-guyanese-roti-shop-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,H4NC8-Evtpan5V4f7FIKwA
+56,Rudie's,Caribbean,3.0,££,50 Stoke Newington Road,51.5518428,-0.0747651,https://www.yelp.com/biz/rudies-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,E5pHcSum0JGdfj-PyiYDKA
+57,Honey's,Caribbean,,,87 Deptford High Street,51.4768476,-0.026126,,
+58,Bamboula,Caribbean,3.5,££,12 Acre Lane,51.4610925,-0.1168427,https://www.yelp.com/biz/bamboula-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,IbCAFITzzDxE95vidi5ljQ
+59,One Stop,Caribbean,3.5,££,17 High Street,51.536817,-0.247912,https://www.yelp.com/biz/one-stop-london-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,x696w6eK9tmywCNEzD7QlQ
+60,Jacksons,Caribbean,2.5,£,62 Clapham High Street,51.4637107,-0.1331201,https://www.yelp.com/biz/jacksons-london-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,9lPL5YB-Je22qXTBcYa2KQ
+61,Jam Rock Restaurant Caribbean Restaurant,Caribbean,4.0,££,9-11 Woodville Road,51.3996988,-0.0978956,https://www.yelp.com/biz/jam-rock-restaurant-caribbean-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,7EZGGRG4KWcVZvYTzxL9oQ
+62,Andi's,Caribbean,,,176 Stoke Newington Church Street,51.5614945321003,-0.0821155712183485,,
+63,Jay Peas Caribbean Cuisine,Caribbean,,,53 London Rd,51.40252,-0.193183,,
+64,Levi Roots Caribbean Smokehouse,Caribbean,2.5,££,103 The Street,51.5433947556252,-0.00825295848613017,https://www.yelp.com/biz/levi-roots-caribbean-smokehouse-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,w2zshdNrzVtrVKCUZoj59w
+65,Island Tasties,Caribbean,,,183 Holloway Road,51.5501104,-0.109166,,
+66,In Ting,Caribbean,3.0,£,80 Dalston Lane,51.5461055,-0.0700031,https://www.yelp.com/biz/in-ting-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,oN5E9NplbLtTlJ3t3CXHSg
+67,Cummin Up,Caribbean,3.0,££,389 Lewisham High Street,51.4509324,-0.016692,https://www.yelp.com/biz/cummin-up-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,E9-rrC9B4eInApNEcVrIzQ
+68,Strawberry Hill Caribbean Restaurant,Caribbean,,,169 Wood Street,51.58689,-0.003066,,
+69,Caribbean Scene,Caribbean,3.5,£,The Arcade,51.5436858574889,-0.00582837246088275,https://www.yelp.com/biz/caribbean-scene-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,AnGFsY8CddRaLOAAItEt_w
+70,Fats,Caribbean,,,178 Shirland Road,51.527752,-0.197975,,
+71,Flavours of Norbury,Caribbean,,,1484 London Road,51.4120635414139,-0.123464427888393,,
+72,The Rum Kitchen,Caribbean,4.0,££,1st Floor Kingly Court,51.5123393,-0.1387341,https://www.yelp.com/biz/the-rum-kitchen-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,GG_lpEApTeNIDNzyQv1I0A
+73,Daphanies,Caribbean,,,173 Peckham High Street,51.4740806,-0.0652747,,
+74,Humming Bird,Caribbean,,,23 Brigstock Road,51.397909,-0.1015415,,
+75,White Hart Lane Jerk Centre,Caribbean,,,733 High Rd,51.6038561,-0.0682809,,
+76,Caribbean Kitchen,Caribbean,,,67 Mare Street,51.536742,-0.057229,,
+77,Jay Dees Catering,Caribbean,5.0,£,28 Lancaster Road,51.5182535,-0.2036036,https://www.yelp.com/biz/jay-dees-catering-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,bFpdyQenczhhk38GqV4AfA
+78,Pattie & Punch,Caribbean,,,53A London Road,51.4025192260742,-0.19318300485611,,
+79,Healthy Eaters Jamaican Cuisine,Caribbean,4.0,£,17 Electric Aveune,51.4621887,-0.11416,https://www.yelp.com/biz/healthy-eaters-jamaican-cuisine-brixton?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,A8tzbraEzfn_W8-aqtf6-w
+80,O-Tower Caribbean Cuisine,Caribbean,4.0,£,60 Tower Bridge Road,51.4957428,-0.0829467,https://www.yelp.com/biz/o-tower-caribbean-cuisine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Q2VsjDQMl9NDRKdtwbvt0g
+81,One Love Caribbean Restaurant,Caribbean,4.5,££,196 High Road,51.5719083,0.1400925,https://www.yelp.com/biz/one-love-caribbean-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,3naXSxB7OUKns9oSEktnGQ
+82,Guanabana,Caribbean,3.5,££,85 Kentish Town Road,51.543317,-0.142011,https://www.yelp.com/biz/guanabana-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,AuoCpnan2Dp_A8a_uCo_Bg
+83,Cottons,Caribbean,4.0,££,130-132 Curtain Road,51.526379,-0.080199,https://www.yelp.com/biz/cottons-london-5?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,fQHEnP3Wfmj8NZyGIO5Aww
+84,Gabby's Caribbean Restaurant and Takeaway,Caribbean,4.5,£,227 Walworth Road,51.488799,-0.0957,https://www.yelp.com/biz/gabbys-caribbean-restaurant-and-takeaway-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,cYAXq_e9lH5yzVczpd9ipA
+85,Jerkmaica,Caribbean,,,10 Chapel Market,51.5335399815273,-0.110209956765175,,
+86,Tropical Caribbean Restaurant,Caribbean,4.0,££,70 Hendon Way,51.5634232,-0.2044524,https://www.yelp.com/biz/tropical-caribbean-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,driGZFxlitQ1_PeL5K9TbQ
+87,Jeanie's Joint,Caribbean,,,82 Willesden Lane,51.5410053,-0.2018709,,
+88,Portobello Shack,Caribbean,,,272 Portobello Rd,51.5188182243406,-0.207182876765728,,
+89,Tasty Jerk,Caribbean,4.5,£,88 White Horse Lane,51.3987654313901,-0.0881690070094861,https://www.yelp.com/biz/tasty-jerk-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,BhnSsykv7dDNdFZ9q5uH0A
+90,Cottons,Caribbean,4.5,££,157-159 Notting Hill Gate,51.508423,-0.200078,https://www.yelp.com/biz/cottons-london-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,zJWNjLaBFav03wQo71Inww
+91,Jamaica Patty Co.,Caribbean,4.5,£,26 New Row,51.51113,-0.126663,https://www.yelp.com/biz/jamaica-patty-co-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Ldwq1_0iRTUth1q0DoaojQ
+92,Peppers & Spice,Caribbean,4.5,£,40 Balls Pond Rd,51.54623,-0.077265,https://www.yelp.com/biz/peppers-and-spice-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,mMbnTGId-rn-n9xEPycvwA
+93,Jamaican Grillhouse,Caribbean,,,189 Wardour Street,51.5154900720867,-0.135521606215565,,
+94,JRK Kitchen,Caribbean,,,29 Porchester Road,51.51686,-0.18822,,
+95,Trinidad Roti Shop Carribean Cusine,Caribbean,5.0,£,27 Craven Park Rd,51.5380758,-0.2496949,https://www.yelp.com/biz/trinidad-roti-shop-carribean-cusine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,LkeTV0AHP7gUy4yiHDiw0A
+96,Negril,Caribbean,4.0,££,132 Brixton Hill,51.4527575,-0.1213855,https://www.yelp.com/biz/negril-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,w3gHIiTFqUs68ecxO941GA
+97,Ma Petite Jamaica,Caribbean,3.0,££,4 Inverness Street,51.5397475,-0.143738399999962,https://www.yelp.com/biz/ma-petite-jamaica-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,e3V8dF4BxiEsC9Ace0NIgA
+98,Café Caribbean,Caribbean,4.5,£,Unit D The Pavilion,51.5194188,-0.0753999,https://www.yelp.com/biz/caf%C3%A9-caribbean-london-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,wihXNgy0qd99r6rVbhXnVw
+99,Jerky's,Caribbean,4.5,£,62 Walham Grove,51.482129,-0.197729,https://www.yelp.com/biz/jerkys-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,KB_p_x7XrFnP8TCbNPgAAA
+100,Ochi Caribbean Takeaway,Caribbean,4.0,£,226 Uxbridge Road,51.5058753,-0.2275499,https://www.yelp.com/biz/ochi-caribbean-takeaway-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Fg-mJ8CJSqviwwbyiqoaPA
+101,Refill,Caribbean,4.0,£,23 Portland Road,51.3983693,-0.0724632,https://www.yelp.com/biz/refill-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,3IPFMCeSYX6IOdnpmQHQGQ
+102,Perfect Delight,Caribbean,,,417 Beulah Hill,51.4223218677333,-0.106099806725979,,
+103,Lulu's Caribbean Cuisine,Caribbean,5.0,££,84 Stroud Green Road,51.5682411,-0.1096779,https://www.yelp.com/biz/lulus-caribbean-cuisine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,8ieNlUy-F47twzwo4n1I9w
+104,Cottons,Caribbean,3.5,££,55 Chalk Farm Road,51.543151,-0.1495075,https://www.yelp.com/biz/cottons-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,vhzJFdCV-JVRl4nHY5gLzw
+105,Hotspice Caribbean Restaurant,Caribbean,5.0,££,456 High Road,51.553702,-0.294114,https://www.yelp.com/biz/hotspice-caribbean-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Fvu6WXfqk1rFBN9fMOkqew
+106,Ting N Ting,Caribbean,4.5,££,Unit 2 The Pavillion,51.413265,-0.183182,https://www.yelp.com/biz/ting-n-ting-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,zwrxELwWlnNnI13AQ38ciw
+107,Taste Of The Carribean,Caribbean,,,136-138 Kingsland High street,51.549287,-0.074987,,
+108,Jerk World,Caribbean,,,45 Leather Lane,51.520455,-0.109774,,
+109,Orange Bay,Caribbean,,,30 Brixton Water Lane,51.455097,-0.113108,,
+110,Bushmans Kitchen,Caribbean,,,Brixton Station Road,51.4634895,-0.1097,,
+111,Cummin Up Caribbean,Caribbean,4.0,£,265 New Cross Road,51.475162,-0.039776,https://www.yelp.com/biz/cummin-up-caribbean-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,AHP0Zo-Mf1tikUDngqmT7g
+112,Roti Masters,Caribbean,,,26A St George's Walk,51.3728548739169,-0.0987969596236553,,
+113,Caribsoul,Caribbean,2.5,££,46 George Street Croydon,51.373658,-0.09857,https://www.yelp.com/biz/caribsoul-croydon?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,iLtR39Nt-ESjOY4bk7Qnug
+114,Tuck Inn Canteen,Caribbean,,,13 Bradbury Street,51.548512,-0.076426,,
+115,Treasure Beach Grill,Caribbean,,,8 Charleville Road,51.48921,-0.206401,,
+116,Refill Caribbean Cuisine,Caribbean,4.0,££,26b Upper Tooting Road,51.4351979,-0.1609688,https://www.yelp.com/biz/refill-caribbean-cuisine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,GWHuCiJ7HPJRcP5sKuUkwA
+117,Mama's Jerk,Caribbean,4.0,£,Pop Brixton,51.4634005,-0.1110494,https://www.yelp.com/biz/mamas-jerk-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,0T5nq1sSb0cnh_dPLdQ3Rg
+118,Coco's Afric-Carib Restaurant,Caribbean,,,1 Shroud Green Road,51.5645751,-0.1049619,,
+119,BAYGO,Caribbean,,,27-29 EASTCHEAP,51.5107508709918,-0.0841331489839924,,
+120,Reggae Ready,Caribbean,,,241 Holloway Road,51.5514488220215,-0.111143998801708,,
+121,Ayanna's London,Caribbean,,,2 Yabsley Street,51.5051938024685,-0.00719941097727661,,
+122,Yum Yum Caribbean Cuisine,Caribbean,2.0,£££,113 Lower Clapton Rd,51.5520095825195,-0.0525289997458458,https://www.yelp.com/biz/yum-yum-caribbean-cuisine-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,b7gJd1Yjr3jYIjUHlSbvCw
+123,Reggae 2 Go,Caribbean,,,177C Priory Road,51.587272,-0.1329,,
+124,Smokey Bites African Caribbean Restaurant,Caribbean,3.0,££,77 Streatham High Road,51.4310997,-0.1290901,https://www.yelp.com/biz/smokey-bites-african-caribbean-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,oPCG95_Rcu8JkNAWapVr-Q
+125,Cottons - Vauxhall,Caribbean,,,Unit 12 Flagship House,51.4862136352693,-0.126196257770061,,
+126,Caribbean Cuisine,Caribbean,,,113 Lower Clapton Rd.,51.5521106,-0.0525556,,
+127,SoulFood,Caribbean,,,8 Southwark Street,51.5057930815276,-0.0892469813963961,,
+128,Mama's Jerk,Caribbean,,,Unit 5 Wharf Kitchen,51.5030899047852,-0.0186069998890162,,
+129,Moorish Grill,Caribbean,,,15 Selhurst Road,51.3893003124606,-0.0895980465612827,,
+130,Cocoreef,Caribbean,4.0,£,5 Eros House,51.4462013244629,-0.018163999542594,https://www.yelp.com/biz/cocoreef-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ObmTXmie_zeb1_gOWUJCkw
+131,Hilltop Roti,Caribbean,,,46-48 Drayton Green Road,51.5130805344202,-0.319408579213232,,
+132,Rice & Pea-zza,Caribbean,,,124 Camden Road,51.5422571,-0.1377337,,
+133,Brown Eagle,Caribbean,3.5,£,236 High Road,51.5988433650445,-0.110886464991227,https://www.yelp.com/biz/brown-eagle-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,haclFQJWnrC81B0xgUcqbw
+134,God Bless Restaurant,Caribbean,,,18A Peckham Rye,51.4653930664063,-0.066771999001503,,
+135,Take Two,Caribbean,,,1 Brixton Station Road,51.463567,-0.11417,,
+136,Spice 2000 Caribbean Restaurant,Caribbean,4.5,££,34 Sangley Road,51.4437662,-0.0180673,https://www.yelp.com/biz/spice-2000-caribbean-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,G75rSELuZe35VOynGl_Tzw
+137,Bonni's Reggae Hut,Caribbean,,,40 High Street,51.5778689,0.1784815,,
+138,The Rum Kitchen,Caribbean,4.0,££,435-437 Coldharbour Lane,51.461484,-0.113795,https://www.yelp.com/biz/the-rum-kitchen-london-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nE8LGPxyZw_tUxBl-3GjpQ
+139,Tracks and Records,Caribbean,,,94 Middlesex Street,51.5172083370298,-0.0771364804260202,,
+140,Heart and Soul Caribbean Restaurant and Wine Bar,Caribbean,5.0,££,512 Lea Bridge Road,51.5724678,-0.0179482,https://www.yelp.com/biz/heart-and-soul-caribbean-restaurant-and-wine-bar-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,SRbhuelCRwm12l3HIqyLxg
+141,True Flavours,Caribbean,,,101 Acre Lane,51.45951787646,-0.12532182749586,,
+142,Bush Man Kitchen: Caribbean Kiosk,Caribbean,5.0,£,27 Bixton Station Road,51.4638198,-0.1131253,https://www.yelp.com/biz/bush-man-kitchen-caribbean-kiosk-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,qVIFHIW2vzL9eZSvuhyqPQ
+143,Spice 2000 Caribbean Takeaway,Caterers,3.0,£,56 Morrish Road,51.44644,-0.12505,https://www.yelp.com/biz/spice-2000-caribbean-takeaway-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Rn3ivj-pH0a8Kmoj_8GX-A
+144,The Beachcomber,Cocktail Bars,3.5,££,86 Queensway,51.5129961,-0.1874469,https://www.yelp.com/biz/the-beachcomber-london-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,bsLOnOB58KNGVVQ_hIqkhw
+145,Grill Shack & Tiki Bar,Cocktail Bars,,,15 The Vale,51.506601,-0.2474416,,
+146,The Rum Kitchen,Cocktail Bars,3.0,££,Unit 6,51.5176029,-0.203373,https://www.yelp.com/biz/the-rum-kitchen-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,d-KEsO5jr_4YmSXDJtoxMw
+147,"Fish, Wings, & Tings",Fast Food,4.0,££,96 Coldharbour Lane,51.4620556573045,-0.111579895019531,https://www.yelp.com/biz/fish-wings-and-tings-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nBczIlHoooRznn7hLGbj7w
+148,Roti Joupa,Fast Food,4.5,££,12 Clapham High Street,51.465042,-0.130435,https://www.yelp.com/biz/roti-joupa-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,QuvN55K7XQ7Rkjn6NX4zFw
+149,Calabash,Fast Food,2.0,£££,24 Vicarage Lane,51.5414831,0.0101164,https://www.yelp.com/biz/calabash-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Cyo1RCOPEP2p51zapFHC1Q
+150,Essence Of The Carribean,Fast Food,3.5,££,333 Barking Road,51.532829,0.0525101,https://www.yelp.com/biz/essence-of-the-carribean-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,FIe-An-MXrQvOC66gcLPMQ
+151,Old Harbour Bay Carribean Takeaway,Fast Food,,,620 Roman Road,51.5339333,-0.0271954,,
+152,Bagel King,Fast Food,3.5,£,280 Walworth Road,51.4872504,-0.0954441,https://www.yelp.com/biz/bagel-king-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,BnY-qn2yadsc6KvOYECMbg
+153,Roti Stop,Fast Food,4.5,£,36b Stamford Hill,51.5650585351901,-0.0728696615443503,https://www.yelp.com/biz/roti-stop-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1nkl_so8z2Vwz68kKHaa0Q
+154,Pat And Pinky's,Food Stands,,,Lewisham Way,51.4684261,-0.0257536,,
+155,White Men Can't Jerk,Food Stands,,,The Magic Roundabout,51.5256703,-0.0875615,,
+156,Troy Bar & Restaurant,Jazz & Blues,4.0,£,10 Hoxton Street,51.527616,-0.080131,https://www.yelp.com/biz/troy-bar-and-restaurant-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,eXp-OnzLT6pi7idx97TP9Q
+157,Paladar,Latin American,,,4-5 London Rd,51.4981401,-0.104369,,
+158,Silva Caribbean and Latin American Cuisine,Latin American,3.5,£,148 The Broadway,51.5098455,-0.3277902,https://www.yelp.com/biz/silva-caribbean-and-latin-american-cuisine-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ebZwt9-sGuuU3rIo6O3EVA
+159,Columbia Restaurant,Latin American,,,DoubleTree by Hilton London Docklands Riverside,51.5043483,-0.0334436,,
+160,Mi Cocina Es Tuya,Latin American,4.0,££,61 Westow St,51.4177748,-0.0820176,https://www.yelp.com/biz/mi-cocina-es-tuya-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nMDC_0s833y6uWDzEEIWRA
+161,Jerk Garden,Specialty Food,5.0,£,394 Brockley Road,51.453979,-0.0379514,https://www.yelp.com/biz/jerk-garden-london?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,w8BHTtoDhGm0osvKfbeZsg
+162,troybar,Venues & Event Spaces,,,10 hoxton street london,51.5276306,-0.0801293,,
