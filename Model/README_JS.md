@@ -44,13 +44,7 @@ Model performance varied.  Some factors influencing this include:
 * varying makeup of training and testing data
 * varying weather features and scales
 
-Mean Squared Error (MSE) for our high temp models varied from a low of 2.6 (August New York) to a high of 22.4 (January New York).  The average MSE for London was 8.8.  New York's average MSE was 10.3.
-
-For rainfall, MSE ranged from 0.78 (July London) to 20.67 (August New York).  The average for London was 1.48.  New York averaged 6.91.
-
-For London sunshine, MSE was significantly higher given the increased scale of sunshine hours per month, ranging from 163 (December) to 2249 (June).  The average was 977.
-
-For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February).  The average was 14.65.
+![model_mse](https://user-images.githubusercontent.com/82730954/135939879-28679f09-6164-471b-9c31-50c2fb40d92e.png)
 
 Full model results and performance are include in the appendix below.
 
