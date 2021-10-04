@@ -39,7 +39,7 @@ https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/Vacat
 
 <li>	Tableau to develop our interactive dashboard and create a layered map with points of interest for a vacation in NYC or London. Points of interest will include hotels, eateries, and attractions and will be loaded with csv files.</li> <br/> 
 
-<li>	Updated our Machine Learning Model from Neural Network Model to a simpler linear regression model. Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model. We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project. By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.
+<li>	Updated our Machine Learning Model from Neural Network Model to a simpler Linear Regression Model. Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model. We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project. By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.
 
 ![image](https://user-images.githubusercontent.com/82008319/134836194-cd427175-982d-4940-abb0-d5eb37843ac9.png)
 
@@ -65,9 +65,10 @@ Initially we planned to show predictions for 2022 and 2023 but we found these ra
 ## Model Performance:
 Model performance varied. Some factors influencing this include:
 
-monthly weather variance from year to year
-varying makeup of training and testing data
-varying weather features and scales
+<li>	monthly weather variance from year to year</li> 
+<li>	varying makeup of training and testing data</li>  
+<li>	varying weather features and scales</li> <br/>   
+
 Mean Squared Error (MSE) for our high temp models varied from a low of 2.6 (August New York) to a high of 22.4 (January New York). The average MSE for London was 8.8. New York's average MSE was 10.3.
 
 For rainfall, MSE ranged from 0.78 (July London) to 20.67 (August New York). The average for London was 1.48. New York averaged 6.91.
@@ -79,7 +80,7 @@ For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February). The a
 ## Weather Predictions:
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible. We used a number of suggestions from Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity. We also used an online simulator to ensure that those who are color blind can differentiate between highs and lows.
 
-![image](https://user-images.githubusercontent.com/82008319/135797597-3cff15eb-d831-436b-89aa-744347d9bd05.png)
+![image](https://user-images.githubusercontent.com/82008319/135797597-3cff15eb-d831-436b-89aa-744347d9bd05.png) <br/>  
 
 ![image](https://user-images.githubusercontent.com/82008319/135797610-75fcc171-9880-4776-916e-ba4432b553d8.png)
 
