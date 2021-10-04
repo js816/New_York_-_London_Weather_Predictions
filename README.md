@@ -10,7 +10,7 @@ Our team was interested in creating a fun and adventurous project utilizing tool
 https://docs.google.com/presentation/d/1yE4ZaJOmCI6Fx8ocG51ZpReybJVQFVDSGJyaRh34tyg/edit#slide=id.p
 
 ## Story:
-Big City Vacation? Choose from NYC or London. 
+Big City Vacation: Choose from NYC or London. 
 When shall you go? Our team will provide a table of predicted weather so you know the best time go best on your comfort level. 
 Would you like to build an itenerary? We've got a map of the city that is layered with hotels, points of interests, and restaurants options.
 
