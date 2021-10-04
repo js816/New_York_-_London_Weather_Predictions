@@ -52,6 +52,8 @@ For London sunshine, MSE was significantly higher given the increased scale of s
 
 For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February).  The average was 14.65.
 
+Full model results and performance are include in the appendix below.
+
 ## Weather predictions
 
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible.  We used a number of suggestions from *Storytelling with Data: A Data Visualization Guide for Business Professionals* by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity.  We also used an [online simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that those who are color blind can differentiate between highs and lows.
@@ -104,3 +106,24 @@ Using vlookups, the data was consolidated from multiple tables and worksheets in
 ### London Hotel Reviews
 
 Latitude and longitude coordinates were added to this dataset.  Upon pivoting the data, there were approximately 20 hotels represented by the reviews.  Google Maps was used to obtain the coordinates and these were added to the reviews using a vlookup in Excel.  The reviews file was then saved in a CSV format with the two new columns.
+
+# Appendix
+
+## High temperature model
+
+![high_temp_model_results](https://user-images.githubusercontent.com/82730954/135890535-8ca84216-a579-48b2-85c6-4b1f30328898.PNG)
+
+
+## Precipitation model results
+
+![precip_model_results](https://user-images.githubusercontent.com/82730954/135890616-8624e22b-626f-4a1c-9cc9-4b03da48c149.png)
+
+
+## NYC snowfall model results
+
+![snowfall_model_results](https://user-images.githubusercontent.com/82730954/135890649-b8bbb2a8-10b5-450d-8a2c-c2a16bc9eeac.png)
+
+
+## London sunshine model results
+
+![sunshine_model_results](https://user-images.githubusercontent.com/82730954/135890676-b4e9b1fb-8826-4c32-ac78-e5e00b0c6089.png)
