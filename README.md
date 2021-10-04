@@ -1,4 +1,4 @@
-#  Big City Vacation - Deliverable 2
+#  Big City Vacation - Deliverable 3
 
 ## Team:
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
@@ -6,10 +6,10 @@ Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 ## Why did we choose this topic:
 Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how fun it would be to plan a trip to a few major cities creating an interactive layered map visualization in tableau that allows you to create an itinerary.    
 
-## Story:
-
+## Presentation:
 https://docs.google.com/presentation/d/1yE4ZaJOmCI6Fx8ocG51ZpReybJVQFVDSGJyaRh34tyg/edit#slide=id.p
 
+## Story:
 Before you grab your walking shoes, cameras, and water bottle, to explore “The Big Apple” or “The City”, you will need to plan for your big city vacation adventure and we are here to help.<br/>
 
 The first question you may ask yourself is, "when should I book my trip to NYC or London?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/>
@@ -20,6 +20,13 @@ But that is not all, we would like to provide additional resources to get the mo
 <li>	Third, we realize how important it is to find a good restaurant near your activities and lodging as well as how it can add to the cultural experience, so we would like to display “What restaurants are in the area and how good they are” on the layered map.</li> <br/>
 
 So, let’s get started.<br/>
+
+## Dashboard:
+https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/VacationStory?publish=yes
+
+![VacationStory](https://user-images.githubusercontent.com/82008319/135797705-0cc8d86a-25cf-4cff-bf5e-5247bb18df33.png)
+
+![VacationStory (1)](https://user-images.githubusercontent.com/82008319/135797724-f6bf793d-989a-4140-9e7d-0a10ced102c5.png)
 
 ## Tools & Technologies: 
 <li>	Excel for initial csv file data exploration and some cleaning. </li> <br/> 
@@ -52,6 +59,29 @@ In preliminary versions of our models, graphs were created with a scatter plot f
 To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value. We then rounded the total rainfall to the nearest tenth of an inch. For other weather features, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.
 
 Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature. An example for London is shown below:<br/>
+
+![image](https://user-images.githubusercontent.com/82008319/135797394-013f88db-3534-44c4-9457-9cfe0123fc85.png)
+
+## Model Performance:
+Model performance varied. Some factors influencing this include:
+
+monthly weather variance from year to year
+varying makeup of training and testing data
+varying weather features and scales
+Mean Squared Error (MSE) for our high temp models varied from a low of 2.6 (August New York) to a high of 22.4 (January New York). The average MSE for London was 8.8. New York's average MSE was 10.3.
+
+For rainfall, MSE ranged from 0.78 (July London) to 20.67 (August New York). The average for London was 1.48. New York averaged 6.91.
+
+For London sunshine, MSE was significantly higher given the increased scale of sunshine hours per month, ranging from 163 (December) to 2249 (June). The average was 977.
+
+For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February). The average was 14.65.
+
+## Weather Predictions:
+Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible. We used a number of suggestions from Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity. We also used an online simulator to ensure that those who are color blind can differentiate between highs and lows.
+
+![image](https://user-images.githubusercontent.com/82008319/135797597-3cff15eb-d831-436b-89aa-744347d9bd05.png)
+
+![image](https://user-images.githubusercontent.com/82008319/135797610-75fcc171-9880-4776-916e-ba4432b553d8.png)
 
 ## Data Sources:
 ### Weather Data:
@@ -103,7 +133,7 @@ Although the format differed between most of the datasets, they all had a name, 
 
 ### Restaurants:
 https://www.yelp.com/developers/documentation/v3/business_search<br/>
-We originally were going to use YELP dataset via Kaggle, however found that the dataset offered was limited. For example there were only three restaurants in NYC. Therefore, we decided to utilize the Yelp Business Search API.<br/><br/>
+We originally were going to use YELP dataset via Kaggle, however found that the dataset offered was limited. For example there were only three restaurants in NYC. Therefore, we decided to utilize the Yelp Business Search API. Next, we found that YELP set a data limit of 200 records (50/call up to 4 calls with the set parameters). Hence, we created different parameters by choosing different restaurant types to build our dataset. Continuing with the NYC Restaurant example we went from 3 records in Deliverable 1, to 200 for Deliverable 2, and finished up with just over 4,400 records for Deliverable 3.<br/><br/>
 
 ## Logistics:
 ### Communication Protocol: 
