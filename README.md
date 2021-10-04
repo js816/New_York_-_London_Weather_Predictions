@@ -10,16 +10,9 @@ Our team was interested in creating a fun and adventurous project utilizing tool
 https://docs.google.com/presentation/d/1yE4ZaJOmCI6Fx8ocG51ZpReybJVQFVDSGJyaRh34tyg/edit#slide=id.p
 
 ## Story:
-Before you grab your walking shoes, cameras, and water bottle, to explore “The Big Apple” or “The City”, you will need to plan for your big city vacation adventure and we are here to help.<br/>
-
-The first question you may ask yourself is, "when should I book my trip to NYC or London?" Our team can help answer that question by accounting for weather. We will create a model to predict the average maximum temperature for each month. Based on your preferences, we can then provide suggestions as to when to schedule your vacation. <br/>
-
-But that is not all, we would like to provide additional resources to get the most out of your vacation by creating a layered map that can be used to build out your daily itinerary. <br/>
-<li>	First, we would like to provide optional hotel accommodations that meet a minimum rating threshold. </li>
-<li>	Second, we would like to provide suggested points of interests and group them together by area so you can make the most out of each day. </li>
-<li>	Third, we realize how important it is to find a good restaurant near your activities and lodging as well as how it can add to the cultural experience, so we would like to display “What restaurants are in the area and how good they are” on the layered map.</li> <br/>
-
-So, let’s get started.<br/>
+Big City Vacation? Choose from NYC or London. 
+When shall you go? Our team will provide a table of predicted weather so you know the best time go best on your comfort level. 
+Would you like to build an itenerary? We've got a map of the city that is layered with hotels, points of interests, and restaurants options.
 
 ## Dashboard:
 https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/VacationStory?publish=yes
@@ -43,24 +36,12 @@ https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/Vacat
 
 ![image](https://user-images.githubusercontent.com/82008319/134836194-cd427175-982d-4940-abb0-d5eb37843ac9.png)
 
-Historical weather data is accessed from a PostgreSQL database. A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature. The weather features that our models predict are:
+A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature. The weather features that our models predict are:
 
 <li>	average monthly high temperature</li> 
 <li>	total monthly rainfall</li> 
 <li>	total monthly snowfall (NYC only)</li> 
 <li>	total monthly sunshine hours (London only)</li> <br/>  
-
-We used Scikit-learn's train_test_split to separate our dataset into training sets and testing sets. Each model is trained on 75% of the dataset and tested on the remaining 25%. To evaluate our models, we utilized Mean Squared Error (MSE).
-
-We compared performance of these individual-month models to models that included data for all months and used month number as an input. When comparing model performance, the individual-month models generally had much better performance. For the rainfall model, however, the combined model performed slightly better. For consistency purposes, all models were broken out into individual months.
-
-In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.
-
-To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value. We then rounded the total rainfall to the nearest tenth of an inch. For other weather features, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.
-
-Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature. An example for London is shown below:<br/>
-
-![image](https://user-images.githubusercontent.com/82008319/135797394-013f88db-3534-44c4-9457-9cfe0123fc85.png)
 
 ## Model Performance:
 Model performance varied. Some factors influencing this include:
@@ -68,14 +49,6 @@ Model performance varied. Some factors influencing this include:
 <li>	monthly weather variance from year to year</li> 
 <li>	varying makeup of training and testing data</li>  
 <li>	varying weather features and scales</li> <br/>   
-
-Mean Squared Error (MSE) for our high temp models varied from a low of 2.6 (August New York) to a high of 22.4 (January New York). The average MSE for London was 8.8. New York's average MSE was 10.3.
-
-For rainfall, MSE ranged from 0.78 (July London) to 20.67 (August New York). The average for London was 1.48. New York averaged 6.91.
-
-For London sunshine, MSE was significantly higher given the increased scale of sunshine hours per month, ranging from 163 (December) to 2249 (June). The average was 977.
-
-For New York snowfall, MSE ranged from 0.01 (October) to 91.91 (February). The average was 14.65.
 
 ## Weather Predictions:
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible. We used a number of suggestions from Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity. We also used an online simulator to ensure that those who are color blind can differentiate between highs and lows.
@@ -135,17 +108,4 @@ Although the format differed between most of the datasets, they all had a name, 
 ### Restaurants:
 https://www.yelp.com/developers/documentation/v3/business_search<br/>
 We originally were going to use YELP dataset via Kaggle, however found that the dataset offered was limited. For example there were only three restaurants in NYC. Therefore, we decided to utilize the Yelp Business Search API. Next, we found that YELP set a data limit of 200 records (50/call up to 4 calls with the set parameters). Hence, we created different parameters by choosing different restaurant types to build our dataset. Continuing with the NYC Restaurant example we went from 3 records in Deliverable 1, to 200 for Deliverable 2, and finished up with just over 4,400 records for Deliverable 3.<br/><br/>
-
-## Logistics:
-### Communication Protocol: 
-<li> Slack Channel – Group 2 </li>
-<li> Exchange personal numbers for group texts in the event of emergency or no response after 24 hours in slack. </li><br/>
-
-### Manage Project: 
-<li>	Git Hub Repository: https://github.com/ChristineMitchell/Final_Project_Travel </li>
-<li>  Git Hub Task List created via Issues tab of the repository </li><br/>
-
-### Meeting: 
-<li>	Class time </li>
-<li>	As needed, Josh Stephens host zoom meetings. </li><br/>
 
