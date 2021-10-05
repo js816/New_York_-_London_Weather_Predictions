@@ -3,7 +3,8 @@
 
 # Machine Learning Model
 
-![image](https://user-images.githubusercontent.com/82730954/134412569-9a566a18-0e42-45be-b2c7-889253558ee8.png)
+![final_linear_model](https://user-images.githubusercontent.com/82730954/136079845-1f5e5909-5d6d-41d7-bf96-9038013dde8d.png)
+
 
 ## Model selection
 
@@ -23,7 +24,7 @@ We used Scikit-learn's train_test_split to separate our dataset into training se
 
 We compared performance of these individual-month models to models that included data for all months and used month number as an input.  When comparing model performance, the individual-month models generally had much better performance.  For the rainfall model, however, the combined model performed slightly better.  For consistency purposes, all models were broken out into individual months.  
 
-In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  
+In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  Our final model does not create these.
 
 ## Prediction creation
 
