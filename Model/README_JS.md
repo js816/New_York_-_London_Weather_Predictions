@@ -8,7 +8,8 @@ If no response within a day or in case of an emergency, use group or individual 
 
 # Machine Learning Model
 
-![image](https://user-images.githubusercontent.com/82730954/134412569-9a566a18-0e42-45be-b2c7-889253558ee8.png)
+![final_linear_model](https://user-images.githubusercontent.com/82730954/136079845-1f5e5909-5d6d-41d7-bf96-9038013dde8d.png)
+
 
 For our ML model, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model.  We made this change because we felt that the model was easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing this model, however, we lose the ability to leverage various options such as the number of hidden layers, the number of neurons in each hidden layer, and various activation functions.
 
