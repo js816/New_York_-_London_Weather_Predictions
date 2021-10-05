@@ -7,7 +7,7 @@ Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how fun it would be to plan a trip to a few major cities creating an interactive layered map visualization in tableau that allows you to create an itinerary.    
 
 ## Presentation:
-https://docs.google.com/presentation/d/1yE4ZaJOmCI6Fx8ocG51ZpReybJVQFVDSGJyaRh34tyg/edit#slide=id.p
+https://docs.google.com/presentation/d/e/2PACX-1vSHPDfYkY7D8Y6JWAzLDjEQbPk9rEafHPrW1vApHoetRfHzEp_DiWalxgsOKQDRdVrYqmN-JER3ABk_/pub?start=true&loop=false&delayms=3000
 
 ## Story:
 Big City Vacation: Choose from NYC or London. 
