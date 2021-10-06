@@ -1,0 +1,201 @@
+,Restaurant,Type,Rating,Price,Address,Lat,Lng,url,ID
+0,Sweet Chick,American (New),4.0,$$,341 Flatbush Ave,40.67763,-73.97255,https://www.yelp.com/biz/sweet-chick-brooklyn-5?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,iZeAlmKKvxnPu5oUKN-B3Q
+1,Drew's Bayshore Bistro,American (New),4.5,$$$,25 Church St,40.4382552,-74.1996101,https://www.yelp.com/biz/drews-bayshore-bistro-keyport-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,v_dH9Z01bytFgkgd9_IQPQ
+2,Sixth Ward,American (Traditional),,,166 Smith St,40.68599,-73.9911,,
+3,BLVD Bistro,American (Traditional),4.0,$$,2149 Frederick Douglass Blvd,40.80438,-73.9558,https://www.yelp.com/biz/blvd-bistro-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Z-hDHjP4Eza6BA4G97tzVA
+4,Le Sia,Asian Fusion,4.5,$$$,651 9th Ave,40.76072,-73.99119,https://www.yelp.com/biz/le-sia-new-york-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,C3tP0fNNAoxOAC3O406CXQ
+5,Mable's Smokehouse & Banquet Hall,Barbeque,4.0,$$,44 Berry St,40.7211890204726,-73.9570004492998,https://www.yelp.com/biz/mables-smokehouse-and-banquet-hall-brooklyn-6?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nsAU6F2vmdnphmfIa_RuWg
+6,The Hudson,Barbeque,,,348 Dyckman St,40.86871,-73.93212,,
+7,OISO BBQ PIT,Barbeque,,,124 Main St,40.850579,-73.96675,,
+8,Sugar Hill Restaurant & Supper Club,Barbeque,,,217 Nostrand Ave,40.69158,-73.95159,,
+9,Butcher Bar,Barbeque,4.0,$$,37-10 30th Ave,40.76431,-73.9164,https://www.yelp.com/biz/butcher-bar-astoria-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nkfUKb7oWQt54Uz9VQLhUg
+10,Biscuits & Barbeque,Barbeque,4.5,$$,106 E 2nd St,40.74415,-73.63007,https://www.yelp.com/biz/biscuits-and-barbeque-mineola?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,vfnS8azG-POk-txJB05XEA
+11,Dinosaur Bar-B-Que,Barbeque,4.0,$$,700 W 125th St,40.818098338924,-73.9608729269837,https://www.yelp.com/biz/dinosaur-bar-b-que-new-york-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,XzUW9MvEGOFs9_aNj11j2Q
+12,Mighty Quinn's Barbeque,Barbeque,4.0,$$,103 2nd Ave,40.727574,-73.988623,https://www.yelp.com/biz/mighty-quinns-barbeque-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,LsITU8KVYMhV_fatv84wWA
+13,ZLS BBQ,Barbeque,,,219 E 23rd St,40.73852,-73.98201,,
+14,Northern Bell,Barbeque,4.0,$$,612 Metropolitan Ave,40.71389,-73.94855,https://www.yelp.com/biz/northern-bell-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,W8flNX3SneJlQBQt7C9Q9w
+15,Pig Beach,Barbeque,4.0,$$,480 Union St,40.6792941479875,-73.9880264255794,https://www.yelp.com/biz/pig-beach-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Zzvqc7XcyGVX5bnjGN9IXA
+16,Steak 'N Lobster,Bars,4.0,$$,129 W 29th St,40.7472,-73.990979,https://www.yelp.com/biz/steak-n-lobster-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,MIsxw3cb4ByYyH2G1KzrZQ
+17,Catfish,Bars,4.0,$$,1433 Bedford Ave,40.674106,-73.953529,https://www.yelp.com/biz/catfish-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,UinIRaZuSSYlLrOrhy2V0Q
+18,Heavy Woods,Bars,4.0,$$,50 Wyckoff Ave,40.7057052036711,-73.921245932579,https://www.yelp.com/biz/heavy-woods-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,T01HREE-9x-Q0zPr8K419A
+19,Time Flies Restaurant & Bar,Bars,3.5,$$,163-08 Northern Blvd,40.7608004,-73.8022324,https://www.yelp.com/biz/time-flies-restaurant-and-bar-flushing-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,anrwezhvuSdfmB5RwyWgZQ
+20,Crab House All You Can Eat Seafood,Buffets,4.5,$$$$,135 E 55th St,40.759664,-73.969776,https://www.yelp.com/biz/crab-house-all-you-can-eat-seafood-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,YvWQMlMjtYmVmheH97tTlQ
+21,Hip Hop Burger NYC,Burgers,,,1543 Broadway,40.686426,-73.916241,,
+22,Biyou,Cajun/Creole,4.0,$$,198 Lewis Ave,40.68983,-73.93656,https://www.yelp.com/biz/biyou-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,unePwYAUWb7oC8RBt84e3A
+23,Shaking Crab,Cajun/Creole,3.5,$$,37-02 Prince St,40.760747,-73.8330494,https://www.yelp.com/biz/shaking-crab-flushing-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,3bnm05Z90OHEPl_Q3p4fsg
+24,Storming Crab - Yonkers,Cajun/Creole,,,26 Market St,40.96134,-73.85575,,
+25,H Crab Cajun Seafood,Cajun/Creole,,,25-93 Francis Lewis Blvd,40.7734368,-73.7959994,,
+26,The Bayou Restaurant,Cajun/Creole,3.5,$$,580 Gramatan Ave,40.9261252,-73.8357865,https://www.yelp.com/biz/the-bayou-restaurant-mount-vernon?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,sDqDQgV4VBIElhjxMplmow
+27,Hook & Reel Cajun Seafood & Bar,Cajun/Creole,4.0,$$$,2590 Hylan Blvd,40.5682222626251,-74.1109398138044,https://www.yelp.com/biz/hook-and-reel-cajun-seafood-and-bar-staten-island-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,AbkiG5m3JAkaPyapAeuZLw
+28,Hook & Reel Cajun Seafood & Bar,Cajun/Creole,,,100 State Rte 4,40.91889,-74.12387,,
+29,Parish New York,Cajun/Creole,4.0,$$,146 Orchard St,40.720525,-73.988734,https://www.yelp.com/biz/parish-new-york-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,QKVOdHaw54-DmYB9Dw2LOg
+30,Wild Crab House,Cajun/Creole,,,1209 Forest Ave,40.626647,-74.130259,,
+31,Hook & Reel Cajun Seafood & Bar,Cajun/Creole,,,161-21 Jamaica Ave,40.70444,-73.79795,,
+32,Juicy King Crab Express,Cajun/Creole,,,2006 Church Ave,40.6500112,-73.9606074,,
+33,Saveur Creole,Cajun/Creole,4.0,$$$,131 Grove St,40.8159141540527,-74.2067642211914,https://www.yelp.com/biz/saveur-creole-montclair?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,HGZYuZtWbaxVHdOfcUKwBA
+34,Cajun Crab Shack,Cajun/Creole,,,230 Jericho Turnpike,40.728682,-73.702319,,
+35,Cajun Bucket - West Hempstead,Cajun/Creole,,,472 Hempstead Tpke,40.70606167,-73.656195,,
+36,Bourbon Street,Cajun/Creole,3.5,$$,4012 Bell Blvd,40.763854,-73.771405,https://www.yelp.com/biz/bourbon-street-bayside-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,4x-lgRcsLHffWP5dvMqNMA
+37,Louisiana Joe's Sandwich Shop,Cajun/Creole,4.5,$$,488 Merrick Rd,40.653176,-73.62299,https://www.yelp.com/biz/louisiana-joes-sandwich-shop-oceanside?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,cMtAqgpijjdOLHWZT7yqcg
+38,Cajun Cafe & Grill,Cajun/Creole,,,9015 Queens Blvd,40.734518,-73.8705,,
+39,Cajun Cafe,Cajun/Creole,,,100 W 33rd St,40.74939,-73.98911,,
+40,Crab Du Jour Xpress Cajun Seafood,Cajun/Creole,,,284 Malcolm X Blvd,40.80718,-73.94559,,
+41,Jose Tejas,Cajun/Creole,4.0,$$,700 US Hwy 1 N,40.5611611673677,-74.3010789186747,https://www.yelp.com/biz/jose-tejas-iselin?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,jco-hG2RrYPcy4vGXTFceQ
+42,The Rye Roadhouse,Cajun/Creole,4.0,$$,12 High St,40.98092,-73.69382,https://www.yelp.com/biz/the-rye-roadhouse-rye?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nS_Gqp45aeSr5UbMKqtCgA
+43,Voodoo Crab of Rockville Centre,Cajun/Creole,4.0,$$,208 Sunrise Hwy,40.6573,-73.6473,https://www.yelp.com/biz/voodoo-crab-of-rockville-centre-rockville-centre?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,wPdv_c061xCuKxSZTbcdfQ
+44,Canary Club,Cajun/Creole,,,303 Broome St,40.718637,-73.992411,,
+45,The Boil,Cajun/Creole,4.0,$$,139 Chrystie St,40.71974,-73.99339,https://www.yelp.com/biz/the-boil-new-york-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,tiSw-6DIm3-mMORyEIOVyg
+46,Hook & Reel Cajun Seafood & Bar,Cajun/Creole,,,200 Baychester Ave,40.864192,-73.827489,,
+47,Sugar Freak,Cajun/Creole,4.0,$$,37-11 30th Ave,40.7646298318085,-73.9159499108791,https://www.yelp.com/biz/sugar-freak-astoria?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,kSI-wgcYYfpcHcgDrbKIfg
+48,Cap't Loui,Cajun/Creole,4.0,$$,413 Myrtle Ave,40.69323,-73.9693,https://www.yelp.com/biz/capt-loui-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,u_2i8hp27MCKD2XgjtUvAg
+49,Juicy Crab,Cajun/Creole,,,176 59 Union Tpke,40.7261565090371,-73.7913781948378,,
+50,Lowerline,Cajun/Creole,4.5,$$,794 Washington Ave,40.67421,-73.96324,https://www.yelp.com/biz/lowerline-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,swKXaURwqdSrSTcpHsxdbA
+51,Oceanic Boil,Cajun/Creole,,,96-18 Queens Blvd,40.729405,-73.861621,,
+52,Claw Daddy's,Cajun/Creole,4.0,$$,31 3rd Ave,40.68561,-73.98035,https://www.yelp.com/biz/claw-daddys-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1x2hn3e9sCCZca1cnRTpEg
+53,Cap't Loui,Cajun/Creole,4.0,$$,3147 Broadway,40.81431,-73.9598,https://www.yelp.com/biz/capt-loui-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,MW04QetT-HjxF0tYEhiG0g
+54,Sup Crab Greenpoint,Cajun/Creole,,,664 Manhattan Ave,40.72467,-73.95117,,
+55,Mighty Catch,Cajun/Creole,4.0,$$,940 Columbus Ave,40.7995,-73.963082,https://www.yelp.com/biz/mighty-catch-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,L8WCsGiujmGt3kodY9tctA
+56,Nostrand Social,Cajun/Creole,,,706 Nostrand Ave,40.67454,-73.95021,,
+57,Bayou,Cajun/Creole,4.0,$$,1072 Bay St,40.616771,-74.068443,https://www.yelp.com/biz/bayou-staten-island?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hmndKMvCwTzXSAPp4KmGYg
+58,Cajun Seafood Express,Cajun/Creole,,,93 Guy Lombardo Ave,40.653839,-73.584171,,
+59,Cajun Bucket BK,Cajun/Creole,,,200 N 11th St,40.71891567,-73.9539955,,
+60,Soco,Cajun/Creole,4.0,$$,509 Myrtle Ave,40.693866,-73.964535,https://www.yelp.com/biz/soco-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,oOsJn3leUnWDfErRWMf81g
+61,Oceanic Boil,Cajun/Creole,4.5,$$,84-20 37th Ave,40.7498297,-73.8821356,https://www.yelp.com/biz/oceanic-boil-jackson-heights?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,20LSOx_4K2wghTsUx4gSsg
+62,The Boil,Cajun/Creole,4.0,$$$,17 Waverly Pl,40.730316162745154,-73.99429517055144,https://www.yelp.com/biz/the-boil-new-york-5?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,0087AC_NnFRtC0c9FsB9pw
+63,Juicy King Crab Express,Cajun/Creole,,,315 Utica Ave,40.667284,-73.9311,,
+64,Tchoup Shop,Cajun/Creole,4.0,$$,50 Wyckoff Ave,40.70565,-73.92161,https://www.yelp.com/biz/tchoup-shop-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,mmFEdsr3os5z86aVP7tW0w
+65,Shaking Crab,Cajun/Creole,3.5,$$$,2869 Broadway,40.80522,-73.96639,https://www.yelp.com/biz/shaking-crab-new-york-5?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,RqBPYb_6-Zb4BKlDxrSElQ
+66,1803,Cajun/Creole,4.5,$$,82 Reade St,40.715498,-74.007178,https://www.yelp.com/biz/1803-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,3xTQT7qjZJIxc-eBiFMerQ
+67,Claw Daddy's,Cajun/Creole,4.0,$$$,185 Orchard St,40.722071,-73.98847,https://www.yelp.com/biz/claw-daddys-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hfMtSdxRsC3JQP3yrm6nag
+68,The Gumbo Bros,Cajun/Creole,4.5,$$,224 Atlantic Ave,40.68934,-73.99178,https://www.yelp.com/biz/the-gumbo-bros-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,vW7sMAxt4YcUS8tWONaX2g
+69,Holy Crab Boiling,Cajun/Creole,4.0,$$,5915 7th Ave,40.63698,-74.01139,https://www.yelp.com/biz/holy-crab-boiling-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,HEQ04JVgYl1QkLDym_Ji9A
+70,Cap't Loui,Cajun/Creole,4.5,$$,210 Main St,40.85116,-73.970674,https://www.yelp.com/biz/capt-loui-fort-lee-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,saA0mGOJW0ZJX22-FCNYSg
+71,The Simpson Restaurant & Bar,Caribbean,,,673 Atlantic Ave,40.683251,-73.973347,,
+72,Rayon's Jamaican & International Restaurant,Caribbean,,,160 Havemeyer St,40.71169574331532,-73.95781015582,,
+73,Tim's Po-Boys and Wings,Chicken Wings,4.5,$,409 Lafayette Ave,40.9520960738929,-74.1553437709808,https://www.yelp.com/biz/tims-po-boys-and-wings-hawthorne-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,IMYNmhA_09_ogvnZ0AuYEA
+74,The Attic Oyster & Cocktail Bar,Cocktail Bars,4.5,$$,136-93 37th Ave,40.762508,-73.8278293,https://www.yelp.com/biz/the-attic-oyster-and-cocktail-bar-flushing?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,eIq1o9JNIbH9YX2y3umUdA
+75,Jacob's Pickles,Comfort Food,4.0,$$,509 Amsterdam Ave,40.7866504411994,-73.9755284786224,https://www.yelp.com/biz/jacobs-pickles-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,xt4sa64WOrpJvZBDPNPNYg
+76,The Shack 48,Comfort Food,,,212-32 48th Ave,40.7552118,-73.7687449,,
+77,Spudz,Fast Food,4.0,$$,1460 Fulton St,40.67988,-73.94245,https://www.yelp.com/biz/spudz-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,HizNZAqHrzuFTmNU-4hiaQ
+78,Queens International Night Market,Food Stands,4.0,$,47-01 111th St,40.747311,-73.8531885,https://www.yelp.com/biz/queens-international-night-market-corona-5?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,r4FfpVF0v48QznLawd4w8w
+79,Le Soleil Brillant Restaurant,Haitian,4.0,$$,858 10th Ave,40.76857,-73.988581,https://www.yelp.com/biz/le-soleil-brillant-restaurant-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,vLt2PHLh9AtKh7fIIvwCWQ
+80,Chloe's Restaurant & Lounge,Haitian,2.5,$$,9413 Ave L,40.63755,-73.89731,https://www.yelp.com/biz/chloes-restaurant-and-lounge-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,zm_ngfMxyU6d85AaTIgI7Q
+81,Funny BBQ,Hot Pot,3.0,$$,98 Bowery,40.71773,-73.99554,https://www.yelp.com/biz/funny-bbq-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,_VWpp7qBwJTAEwc4U2QX8Q
+82,Lan Ting Hotpot,Hot Pot,4.5,$$,705 59th St,40.637494,-74.010961,https://www.yelp.com/biz/lan-ting-hotpot-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,MFYh1htbCY8naZfkdF9rEQ
+83,Fai Bene,Italian,,,255 3rd Ave,40.678095000027035,-73.98545250941578,,
+84,Shabu-Tatsu East Village,Japanese,4.0,$$,216 E 10th St,40.729147,-73.985906,https://www.yelp.com/biz/shabu-tatsu-east-village-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,y_ylOQzCP-9D_4DcUIJ3jA
+85,Pocha 32,Korean,3.5,$$,15 W 32nd St,40.747524574399,-73.9862626791,https://www.yelp.com/biz/pocha-32-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,KaBw8UEm8uZTV6YLsshYrQ
+86,Kjun,Korean,,,231 E 9th St,40.7296335,-73.9877893,,
+87,My Noodle Station,Noodles,,,19 Eldridge St,40.714047,-73.9937693,,
+88,Raizes,Portuguese,3.5,$$,139 Nassau Ave,40.7247029246308,-73.9480696991086,https://www.yelp.com/biz/raizes-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,7fDylE6fckLR5jLYJcRvrw
+89,Hook & Reel Cajun Seafood & Bar,Seafood,4.0,$$$,1756 Forest Ave,40.624655,-74.147251,https://www.yelp.com/biz/hook-and-reel-cajun-seafood-and-bar-staten-island-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,WfFUtkoCyZRtkUxqCFbekg
+90,Ben's Crab,Seafood,4.0,$$,3451 Long Beach Rd,40.62693,-73.64003,https://www.yelp.com/biz/bens-crab-oceanside?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,2Q9kJTdyYL8ZbvA5DL8ZOA
+91,Captain Crab,Seafood,3.5,$$,149 S Central Ave,41.015588,-73.803654,https://www.yelp.com/biz/captain-crab-hartsdale?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,IEO9p0-m-U-qy62rrJIM_A
+92,Brooklyn Crab,Seafood,3.0,$$,24 Reed St,40.6752649,-74.016568,https://www.yelp.com/biz/brooklyn-crab-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,_eC8r8yMhcmDL7PWmaNK9w
+93,Cajun Harbor,Seafood,,,233 A Beach 20th St,40.596487,-73.75445,,
+94,Mr. Boil Crab,Seafood,,,165 Bedford Ave,40.71841,-73.95694,,
+95,Juicy King Crab Express,Seafood,,,19914 Hollis Ave,40.705983,-73.7580593,,
+96,Crab Du Jour Xpress - Uniondale,Seafood,,,957 Nassau Rd,40.688228,-73.595129,,
+97,Hook & Reel Cajun Seafood & Bar,Seafood,,,694 Sunrise Hwy,40.664982,-73.725153,,
+98,Hook & Reel Cajun Seafood & Bar,Seafood,,,200 Passaic Ave,40.76026,-74.16007,,
+99,Juicy King Crab Express,Seafood,,,17937 Hillside Ave,40.712966,-73.78319,,
+100,Jp's City Island,Seafood,3.5,$$$,703 Minnieford Ave,40.85742,-73.79065,https://www.yelp.com/biz/jps-city-island-bronx?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,uBxTHs-rcM-6KqAMEMI9rQ
+101,Jack's Lobster Shack,Seafood,4.0,$$,1040 River Rd,40.83025,-73.97228,https://www.yelp.com/biz/jacks-lobster-shack-edgewater?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,rGv1_nDjaAC1HJXHSDFNrA
+102,Kittery Of Brooklyn,Seafood,3.5,$$$,305 Smith St,40.6814576,-73.9938837,https://www.yelp.com/biz/kittery-of-brooklyn-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,xJK944UJXFBBuYqg0MwpCw
+103,Crab Du Jour Cajun Seafood & Bar,Seafood,,,810 Pelham Parkway,40.893199,-73.819898,,
+104,Crab Du Jour Cajun Seafood Boil and Bar,Seafood,,,3839 Nostrand Ave,40.590552,-73.939303,,
+105,Crafty Crab - Franklin Square,Seafood,,,700 Hempstead Tpke,40.707031,-73.665879,,
+106,Fuji Boil,Seafood,,,321 West 42nd St,40.757916,-73.990702,,
+107,Sup Crab - Staten Island,Seafood,,,1434 Richmond Rd,40.5943,-74.09879,,
+108,Lobster Roll Factory,Seafood,4.0,$$,135-15 40th Rd,40.75875,-73.83105,https://www.yelp.com/biz/lobster-roll-factory-flushing?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,fkm5JkkQlDgWuFYFQSuWTg
+109,Home,Seafood,,,778 Albany Ave,40.65502,-73.93959,,
+110,Ben's Crab,Seafood,,,1002 Hempstead Turnpike,40.716024,-73.5978398,,
+111,Crab Du Jour - Coney Island,Seafood,,,3015 Stillwell Ave,40.5753975225768,-73.98074799999999,,
+112,Flex Mussels,Seafood,4.0,$$,154 W 13th St,40.737437,-73.999661,https://www.yelp.com/biz/flex-mussels-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,rHmeJVffuj96M7jbB-wWgw
+113,Juicy Angry Crab,Seafood,,,9316 4th Ave,40.617318,-74.030966,,
+114,Crab Du Jour,Seafood,,,205 Morris Ave,40.710249,-74.31022733,,
+115,Fishwiches,Seafood,4.0,$,1762 1st Ave,40.78028,-73.94667,https://www.yelp.com/biz/fishwiches-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,IioZ8jB60TJ_WUE4CPJs8w
+116,Bobos Crab Shack - Coop City,Seafood,3.5,$$,691 Co Op City Blvd,40.88087860315926,-73.82519183113857,https://www.yelp.com/biz/bobos-crab-shack-coop-city-the-bronx-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,lMJOO1KprJrB2jbbZu5QsA
+117,Luke's Lobster Upper East Side,Seafood,4.0,$$,242 E 81st St,40.7747308470083,-73.9545491922026,https://www.yelp.com/biz/lukes-lobster-upper-east-side-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,yN5rHxaIZMk6KFrbDNgZgA
+118,Crab Du Jour,Seafood,,,440 Sandford Blvd,40.900734,-73.819805,,
+119,Grab Crab Cajun Seafood,Seafood,,,289 Glenwood Ave,40.79252059268133,-74.19858362229914,,
+120,Hi Good Stuff,Seafood,,,603 Van Houten Ave,40.85751,-74.14762,,
+121,Terrace Fish & Chips,Seafood,4.0,$$,77 Pearl St,40.704044,-74.01049,https://www.yelp.com/biz/terrace-fish-and-chips-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,_YmyHYuM5On1zW17aOf3ZA
+122,Big Easy Restaurant,Seafood,3.5,$$,640 Communipaw Ave,40.71825,-74.07458,https://www.yelp.com/biz/big-easy-restaurant-jersey-city-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,xOYP9X_oTq7fqqy7NL1oVg
+123,Crab Du Jour,Seafood,,,605 Avenue Z,40.58626,-73.97153,,
+124,Bubba Gump Shrimp,Seafood,3.5,$$,1501 Broadway,40.7572071,-73.9863737,https://www.yelp.com/biz/bubba-gump-shrimp-new-york-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Bjv99EWQdyJUGzAZYQ_WOA
+125,Crab Du Jour Xpress Cajun Seafood,Seafood,,,247 Hempstead Turnpike,40.70795,-73.717974,,
+126,S&D Crab House,Seafood,,,105 Middle Neck Rd,40.789702,-73.7299892,,
+127,Cap't Loui,Seafood,,,1347 16th St,40.844937,-73.980452,,
+128,Crab Du Jour,Seafood,,,8101 Tonnelle Ave,40.80828,-74.01806,,
+129,Crab Island Cajun Seafood Express,Seafood,,,2960 Middletown Rd,40.84364889616919,-73.8309296049,,
+130,Juicy King Crab Express,Seafood,,,837 Franklin Ave,40.669613,-73.958176,,
+131,Hook & Reel Cajun Seafood & Bar,Seafood,,,2183A Ralph Ave,40.626735,-73.91693933,,
+132,Boilery Seafood and Grill,Seafood,,,710 Amsterdam Ave,40.79321,-73.971396,,
+133,LoLo's Seafood Shack,Seafood,4.0,$$,303 W 116th St,40.80486,-73.95567,https://www.yelp.com/biz/lolos-seafood-shack-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,XOnspIaW6mYVmrvgqOaYSQ
+134,Naughty Crab,Seafood,,,1621 Lexington Ave,40.78979,-73.94789,,
+135,Brooklyn Bay Seafood,Seafood,,,7026 3rd Ave,40.6341653608713,-74.026490981364,,
+136,Boat Haus,Seafood,3.5,$$,4807 8th Ave,40.641868,-74.002517,https://www.yelp.com/biz/boat-haus-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,aU2d8u4A04lz7jD81Kzu4w
+137,Crab Du Jour Xpress Cajun Seafood,Seafood,,,384 Grand St,40.7164,-73.98767,,
+138,Crab Bros Cajun Seafood Express,Seafood,,,222 Malcolm X Blvd,40.685491,-73.929742,,
+139,Shaking Crab- Brooklyn,Seafood,3.5,$$,230 5th Ave,40.675783,-73.981205,https://www.yelp.com/biz/shaking-crab-brooklyn-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,UvQr8V1dD_d6yRsMJi04wA
+140,Upstate Craft Beer & Oyster Bar,Seafood,4.5,$$,95 1st Ave,40.726373,-73.986557,https://www.yelp.com/biz/upstate-craft-beer-and-oyster-bar-new-york-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ehUuSk5gPTCQmwS_ubgKRA
+141,The Mighty Crab,Seafood,,,34-45 48th St,40.752303,-73.9145444,,
+142,Crab Du Jour - Ozone Park,Seafood,,,91-02 Atlantic Ave,40.68677669967879,-73.85093226517033,,
+143,Shaking Crab - Hell's Kitchen,Seafood,,,737 9th Ave,40.76341,-73.98923,,
+144,Hook & Reel Cajun Seafood & Bar,Seafood,,,1217 Surf Ave,40.57584,-73.98029,,
+145,Crab Du Jour Xpress - West Village,Seafood,,,319 6th Ave,40.73111,-74.00179,,
+146,Juicy King Crab Express,Seafood,,,1126 Broadway,40.693554,-73.929594,,
+147,Juicy King Crab Express,Seafood,,,213 East Broadway,40.714043,-73.987546,,
+148,Just BeClaws,Seafood,4.0,$$,280 1st St,40.7221345,-74.0465332,https://www.yelp.com/biz/just-beclaws-jersey-city?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,cdoYC58vXUvaTkp3Cl-wnQ
+149,Crab Bros Cajun Seafood Express,Seafood,,,770 Washington Ave,40.67502,-73.96339,,
+150,The Boil,Seafood,4.0,$$$,8 Erie St,40.72128,-74.04407,https://www.yelp.com/biz/the-boil-jersey-city?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,K7gNRpP7FdEITs0GgrKfUw
+151,Sup Crab,Seafood,4.0,$$$,97 Bowery,40.71733,-73.99502,https://www.yelp.com/biz/sup-crab-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Dr_eezrA2Cc_azMYnwhRkA
+152,Nola Seafood,Seafood,,,38-18 Prince St,40.75974,-73.83253,,
+153,Crab Dynasty,Seafood,,,82 Livingston St,40.691272,-73.991006,,
+154,Hook & Reel Cajun Seafood & Bar,Seafood,,,430 Albee Square W,40.69088,-73.98378,,
+155,Aqua Boil,Seafood,4.5,$$,750 9th Ave,40.763702,-73.988386,https://www.yelp.com/biz/aqua-boil-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,wRHUJ69-f4CiV5BRY72mUg
+156,Naked Crab,Seafood,4.0,$$,39-16 College Point Blvd,40.7585,-73.83467,https://www.yelp.com/biz/naked-crab-flushing?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,FC2uST9JpPCFmjDcMDVZMA
+157,The Crabby Shack,Seafood,4.0,$$,613 Franklin Ave,40.6772748759876,-73.9554135086263,https://www.yelp.com/biz/the-crabby-shack-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,uAy3zyNCmDPO0RpdGjEAdg
+158,Dynamite Seafood,Seafood,4.5,$$,3720 Prince St,40.76018,-73.8330299,https://www.yelp.com/biz/dynamite-seafood-flushing?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,3W_yj4AVk32FIHnUvkB3sA
+159,JZ Fish Wing,Seafood,,,35 W Palisade Ave,40.89507,-73.97631,,
+160,Crab Du Jour Xpress - Brooklyn,Seafood,,,888 Utica Ave,40.65139,-73.93053,,
+161,Crab Du Jour - Brooklyn,Seafood,,,1285 Fulton St,40.680547,-73.949974,,
+162,Hooked JC,Seafood,4.5,$$,467 Communipaw Ave,40.7146930849064,-74.0670708676607,https://www.yelp.com/biz/hooked-jc-jersey-city?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,e1d40LtcHu8WU4iaJxLdVw
+163,Red Crab - Juicy Seafood,Seafood,,,1724 Sheepshead Bay Rd,40.58536,-73.95164,,
+164,Crab Du Jour Express - Jamaica,Seafood,,,16560 Baisley Blvd,40.6793151,-73.7777212,,
+165,Nauti Cajun Crab,Seafood,,,7 New St,40.541708,-74.361941,,
+166,Parc Oasis Oyster Bar,Seafood,4.0,$$,6403 11th Ave,40.6290427824765,-74.005197991996,https://www.yelp.com/biz/parc-oasis-oyster-bar-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,v4cXt2qe9pq_XWJflL5ISg
+167,Hook & Reel Cajun Seafood & Bar,Seafood,4.0,$$,965 Jefferson Ave,40.6883641926656,-74.3030236561297,https://www.yelp.com/biz/hook-and-reel-cajun-seafood-and-bar-union-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,urLCTGWG4288h4OEFFxuVg
+168,CRAB ISLAND CAJUN SEAFOOD & BAR,Seafood,4.0,$$,1016 Main Ave,40.872022,-74.135283,https://www.yelp.com/biz/crab-island-cajun-seafood-and-bar-clifton?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,fjuOXjAiEDhFlRv6B5e2RQ
+169,Hook & Reel Cajun Seafood & Bar,Seafood,3.5,$$,495 Prospect Ave,40.793859,-74.255164,https://www.yelp.com/biz/hook-and-reel-cajun-seafood-and-bar-west-orange-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,eUsgqdOYiRbelJMoMP0RxA
+170,Off The Hook Raw Bar & Grill,Seafood,4.0,$$,28-08 34th St,40.767167,-73.918014,https://www.yelp.com/biz/off-the-hook-raw-bar-and-grill-astoria?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,pL7MK_PsDtrKdBm1xLPzkg
+171,The High Seafood,Seafood,,,2716 John F Kennedy Blvd,40.72902476303974,-74.06948522550644,,
+172,Crabs In A Barrel,Seafood,,,825 Flatbush Ave,40.652509,-73.9590266,,
+173,Aloha Krab,Seafood,,,438 Utica Ave,40.663702,-73.9317249,,
+174,King Of The Sea,Seafood,,,1102 Bedford Ave,40.687,-73.95479,,
+175,Cajun Bucket - Oceanside,Seafood,3.5,$$,2757 Long Beach Rd,40.644233,-73.63921,https://www.yelp.com/biz/cajun-bucket-oceanside-oceanside?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,XXPX1F74H0pgJ9cS6jyGUw
+176,Peaches Shrimp and Crab,Seafood,4.0,$$,285 Grand Ave,40.6879838,-73.9625478,https://www.yelp.com/biz/peaches-shrimp-and-crab-brooklyn-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,FCms-eFFxnpMLm09AJridQ
+177,Burger & Lobster - Flatiron NYC,Seafood,4.0,$$,39 W 19th St,40.74007,-73.99344,https://www.yelp.com/biz/burger-and-lobster-flatiron-nyc-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,UA2M9QFZghe-9th2KwLoWQ
+178,Seamore's - Nolita,Seafood,4.0,$$,390 Broome St,40.720673,-73.996911,https://www.yelp.com/biz/seamores-nolita-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,DIqsYe-HJS8etyDyXNovBg
+179,Kungfu Crab,Seafood,4.5,$$,209 Paterson Ave,40.848788,-74.112605,https://www.yelp.com/biz/kungfu-crab-wallington?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,-tIDieZz3ARzGOPAaLHi8A
+180,The Mermaid Inn,Seafood,4.0,$$,570 Amsterdam Ave,40.7887398925594,-73.9744491607132,https://www.yelp.com/biz/the-mermaid-inn-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,vQcK7BH6maW9dAZWJOuW3Q
+181,Flex Mussels,Seafood,4.0,$$,174 East 82nd St,40.77637,-73.95646,https://www.yelp.com/biz/flex-mussels-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,-P7qAIG1wr_gXW3nzIq5TA
+182,Black Nile,Seafood,4.5,$$,592 Nostrand Ave,40.67823,-73.94998,https://www.yelp.com/biz/black-nile-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,IPh4H0AfWk5LVplgYV9OGQ
+183,Crab Palace,Seafood Markets,4.0,$$,186- 208 W Market St,40.742217,-74.187284,https://www.yelp.com/biz/crab-palace-newark-8?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Hk3oeIFVce4eHAZPs-0XKw
+184,The Lobster Place,Seafood Markets,4.0,$$,75 9th Ave,40.7427413905213,-74.0060118057704,https://www.yelp.com/biz/the-lobster-place-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,zfiXI8AwYBRfWjPyv6oh3w
+185,Shipwreck Gourmet Fish Boutique,Seafood Markets,4.5,$$,1049 Bedford Ave,40.6881156,-73.9546684,https://www.yelp.com/biz/shipwreck-gourmet-fish-boutique-brooklyn-4?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,BiVoGBgMPrPIhAdYgIcaGg
+186,The Southern Comfort,Soul Food,4.0,$$,377 Marcus Garvey Blvd,40.6843843,-73.938179,https://www.yelp.com/biz/the-southern-comfort-brooklyn-7?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,BFQD1mRO0JxRj-Mcgt_QAA
+187,Sweet Chick,Southern,4.0,$$,46-42 Vernon Blvd,40.74578,-73.95339,https://www.yelp.com/biz/sweet-chick-long-island-city?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,NcHnZbq06y9llCt6ayf_Jw
+188,Peaches HotHouse,Southern,4.0,$$,415 Tompkins Ave,40.6833699737169,-73.9437798410654,https://www.yelp.com/biz/peaches-hothouse-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,GA5msU6NO9rQRctPfDJCBg
+189,Cowgirl,Southern,3.5,$$,519 Hudson St,40.733805,-74.006488,https://www.yelp.com/biz/cowgirl-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,s33HF6gGTWo3D7QxBMv9ow
+190,Bobwhite Counter,Southern,4.5,$,94 Ave C,40.72365,-73.97899,https://www.yelp.com/biz/bobwhite-counter-new-york-7?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nD7Hcq5aaCASbWzc0-Sg3A
+191,Amy Ruth's,Southern,4.0,$$,113 W 116th St,40.80248,-73.95038,https://www.yelp.com/biz/amy-ruths-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,tsiC3VpO-hZEb98Qk3p-DQ
+192,South House,Southern,3.5,$$,149 Newark Ave,40.7205,-74.0442,https://www.yelp.com/biz/south-house-jersey-city-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,_LF3ULe-5TI92CTJcWEz5g
+193,Bubba's Bistro,Southern,4.0,$$,31-13 Ditmars Blvd,40.775832308033,-73.9100879056678,https://www.yelp.com/biz/bubbas-bistro-astoria-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,escMR9M42UsHQIglAz1pJw
+194,Sweet Chick,Southern,4.0,$$,178 Ludlow St,40.7217399,-73.98739,https://www.yelp.com/biz/sweet-chick-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,8F81LrdFm6P5kkFpsw0n0w
+195,Sweet Chick,Southern,4.0,$$,164 Bedford Ave,40.718371,-73.95733,https://www.yelp.com/biz/sweet-chick-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,4KHjnRNvrkKHchEznhlnSA
+196,Root & Bone,Southern,4.0,$$,200 E 3rd St,40.7228079872831,-73.9833535829059,https://www.yelp.com/biz/root-and-bone-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ULt3kmA0_hbZ3j6cMORCaA
+197,Pies-n-Thighs,Southern,4.0,$$,166 S 4th St,40.711191,-73.961424,https://www.yelp.com/biz/pies-n-thighs-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,j9TdOBSQ1LRw8v3hW5fObQ
+198,Bedford Food Hall,Sushi Bars,4.5,$$,172 Bedford Ave,40.71859823882674,-73.95708234467799,https://www.yelp.com/biz/bedford-food-hall-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,jpUSESI6aJs0nYixt87QEA
+199,Jose Tejas,Tex-Mex,4.0,$$,647 US Hwy 46 W,40.8918151460607,-74.2702094286981,https://www.yelp.com/biz/jose-tejas-fairfield-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,usoD4PdmDj3Vqr_MuXxIvg
