@@ -59,9 +59,9 @@ For future analysis, we should compare our predictions to the actual weather con
 ## Weather Predictions:
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible. We used a number of suggestions from Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity. We also used an online simulator to ensure that those who are color blind can differentiate between highs and lows.
 
-![image](https://user-images.githubusercontent.com/82008319/135797597-3cff15eb-d831-436b-89aa-744347d9bd05.png) <br/>  
+![image](https://user-images.githubusercontent.com/82008319/136265211-e7f84235-3f7a-47aa-bc99-10cfd87d8baa.png) <br/>  
 
-![image](https://user-images.githubusercontent.com/82008319/135797610-75fcc171-9880-4776-916e-ba4432b553d8.png)
+![image](https://user-images.githubusercontent.com/82008319/136265253-f7252fa6-d311-4e10-9ea8-fe1f6ed45d61.png)
 
 ## Data Sources:
 ### Weather Data:
@@ -118,18 +118,14 @@ We originally were going to use YELP dataset via Kaggle, however found that the 
 ### Appendix
 
 ## High Temperature Model
-
-![image](https://user-images.githubusercontent.com/82008319/136144485-36f0a940-accc-4385-b136-b12c4d95ab0f.png)
+![image](https://user-images.githubusercontent.com/82008319/136265328-a821afed-5720-45fe-83de-89d8788c1b90.png)
 
 ## Precipitation Model Results
-
-![image](https://user-images.githubusercontent.com/82008319/136144534-17c42eea-ce34-4557-a268-ae6f272db8cd.png)
+![image](https://user-images.githubusercontent.com/82008319/136265372-1b03a160-28c7-4844-a0c9-d806f94af52b.png)
 
 ## NYC Snowfall Model Results
-
-![image](https://user-images.githubusercontent.com/82008319/136144581-7ac9c58c-14d7-43d7-9eac-e6c4da85d486.png)
+![image](https://user-images.githubusercontent.com/82008319/136265412-e8724981-dee7-43c4-ab22-7a5958a7dd4c.png)
 
 ## London Sunshine Model Results
-
-![image](https://user-images.githubusercontent.com/82008319/136144617-8c77b6e4-9f03-49de-bca8-b8eb87f79ff9.png)
+![image](https://user-images.githubusercontent.com/82008319/136265464-7db9217b-3b8c-40a8-a46e-eb78a7c115f8.png)
 
