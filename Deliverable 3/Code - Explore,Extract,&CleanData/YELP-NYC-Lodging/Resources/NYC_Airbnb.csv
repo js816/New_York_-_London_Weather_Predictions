@@ -1,0 +1,201 @@
+,Lodging,Type,Rating,Price,Address,Lat,Lng,url,ID
+0,Chatham Square Accountants,Accountants,,,5 Penn Plz,40.752,-73.994082,,
+1,Roomeze,Apartment Agents,,,433 Sterling Pl,40.67476,-73.963454,,
+2,The Marc,Apartments,,,260 West 54th St,40.7645394,-73.983898,,
+3,160 Riverside Boulevard Apartments,Apartments,,,160 Riverside Blvd,40.77755,-73.98826,,
+4,American Copper Buildings,Apartments,,,626 1st Ave,40.74446,-73.97194,,
+5,Liberty Harbor,Apartments,,,50 Regent St,40.7162192,-74.0470641,,
+6,Dharma Home Suites,Apartments,,,333 Washington St,40.719826,-74.037109,,
+7,70 Pine,Apartments,,,70 Pine Street,40.706537,-74.007687,,
+8,Sky,Apartments,,,605 W 42nd St,40.761309,-73.99881,,
+9,95 Wall,Apartments,,,95 Wall St,40.70493,-74.00749,,
+10,Harlington Realty,Apartments,,,156A E 83rd St,40.7771826,-73.9564135,,
+11,Avalon Clinton,Apartments,,,515 W 52nd St,40.7663868,-73.9915846,,
+12,The Brooklyner Apartments,Apartments,,,111 Lawrence St,40.69269,-73.98612,,
+13,Q41,Apartments,,,23-10 41st Ave,40.752653,-73.940399,,
+14,101 West End Apartments,Apartments,,,101 W End Ave,40.775066,-73.988822,,
+15,10 Hanover Square,Apartments,,,10 Hanover Sq,40.70447,-74.00902,,
+16,20 Broad,Apartments,,,20 Broad St,40.70651,-74.01124,,
+17,Avalon Willoughby Square,Apartments,,,214 Duffield St,40.6918,-73.98449,,
+18,90W,Apartments,,,90 Washington St,40.7080231259925,-74.0147531032562,,
+19,The BLVD Collection,Apartments,,,425 Washington Blvd,40.72252239055711,-74.03663120286969,,
+20,The Central Park North,Bed & Breakfast,,,137 W 111th St,40.799755,-73.953598,,
+21,Lefferts Manor Bed And Breakfast,Bed & Breakfast,,,80 Rutland Rd,40.65874,-73.95774,,
+22,Urban Cowboy B&B,Bed & Breakfast,,,111 Powers St,40.7123299,-73.9465103,,
+23,Dyker Heights Christmas Lights,Bus Tours,,,12th Ave & 84th St,40.61655,-74.0149,,
+24,Thrifty Car Rental,Car Rental,,,,40.6947326660156,-73.9898986816406,,
+25,Green Leaf Carpet And Upholstery Cleaning,Carpet Cleaning,,,301 E 22nd St,40.7372766,-73.98108979999999,,
+26,Green Solutions Carpet,Carpet Cleaning,,,75 E 4th St,40.7267532348633,-73.9901962280273,,
+27,RonLouis Photos,Event Photography,,,,40.69283,-73.96182,,
+28,Free Tours by Foot,Food Tours,,,112 Suffolk St,40.718772,-73.98591,,
+29,Urban Oyster Tours,Food Tours,,,79 N 11th St,40.7180036,-73.9653715,,
+30,CozySuites,Guest Houses,,,,40.759231285050895,-73.98994462417889,,
+31,Handy,Handyman,,,,40.74727,-73.9800645,,
+32,HomeClean,Home Cleaning,,,445 Park Ave,40.7611599,-73.97078,,
+33,Elite Supreme Cleaning,Home Cleaning,,,,40.71855,-74.00888,,
+34,Isabella's Housekeeping,Home Cleaning,,,,40.74876,-73.99332,,
+35,Essential Cleaning Services,Home Cleaning,,,,40.7268218994141,-74.1533660888672,,
+36,HomeMaid NYC,Home Cleaning,,,,40.720224260608234,-74.00463335005966,,
+37,Smart Cleaning NYC,Home Cleaning,,,,40.735406898612254,-73.95782914736328,,
+38,Clean Slate,Home Cleaning,,,,40.74127,-74.00142,,
+39,Rainbow Cleaning Service,Home Cleaning,,,453 W 47th St,40.7626092,-73.9922198,,
+40,MyClean Cleaning Services,Home Cleaning,,,247 West 35th St,40.7526971686163,-73.9923072871521,,
+41,Ria's Cleaning Services,Home Cleaning,,,750 Lexington Ave,40.7626903,-73.9682642,,
+42,Maid Share,Home Cleaning,,,,40.73124,-73.9888,,
+43,Dandelion Pristine Clean,Home Cleaning,,,,40.78886,-74.01437,,
+44,Insideout Cleaning Services,Home Cleaning,,,,40.70191917546719,-73.9423227957272,,
+45,Clean4Cause,Home Cleaning,,,195 Plymouth St,40.703896,-73.985433,,
+46,Mom's Standard,Home Cleaning,,,252 Java St.,40.7069162238776,-73.9535312703919,,
+47,Scrub Life Cleaning,Home Cleaning,,,14Th St,40.7339505,-73.9887921,,
+48,XP Clean Solution,Home Cleaning,,,,40.76388,-73.98618,,
+49,Squeeaky Clean,Home Cleaning,,,185 Ocean Ave,40.658504,-73.962059,,
+50,Klean Freaks NYC,Home Cleaning,,,48 Marcy Ave,40.712673,-73.955457,,
+51,Paloma Cleaning Service,Home Cleaning,,,,40.70499,-73.90205,,
+52,Bnb Maid Service,Home Cleaning,,,,40.7591133117676,-73.9682998657227,,
+53,The Freshest Nest,Home Cleaning,,,195 Humboldt St,40.708305,-73.941971,,
+54,Turnover - Clean Pro,Home Cleaning,,,,40.75213096016639,-73.97872225289296,,
+55,Maid In Hoboken,Home Cleaning,,,50 Harrison St,40.73734070268007,-74.04328236661078,,
+56,Maid to Clean NY,Home Cleaning,,,,40.75095,-73.99811,,
+57,Anytime Cleaner,Home Cleaning,,,,40.7492790222168,-73.9925918579102,,
+58,Heaven Scent Tristate,Home Cleaning,,,1026 Hudson St,40.74933,-74.02647,,
+59,Spoton Cleaning Services,Home Cleaning,,,,40.6700634,-73.8957712,,
+60,HomelyPro Cleaning Services,Home Cleaning,,,,40.665771484375,-73.892463684082,,
+61,Irene's Cleaning,Home Cleaning,,,,40.7679901123047,-74.1848373413086,,
+62,Shield Cleaning Company,Home Cleaning,,,511 Avenue of the Americas,40.73683,-73.99744,,
+63,Maid Sailors Cleaning Service,Home Cleaning,,,257 Water St,40.7083,-74.00167,,
+64,Dirt Nerd,Home Cleaning,,,,40.71596,-74.01479,,
+65,Breuckelen Cleaning Solutions,Home Cleaning,,,147 Prince St,40.6924514770508,-73.9903564453125,,
+66,Shannas Finest Cleaning service,Home Cleaning,,,,40.6923484802246,-73.9261016845703,,
+67,NY Moore Hostel,Hostels,,,179 Moore St,40.704157948494,-73.9376416057348,,
+68,Interfaith Retreats,Hostels,,,370 8th Ave,40.74871,-73.99578,,
+69,The Local Hostel,Hostels,,,1302 44th Ave,40.7495386,-73.9479673,,
+70,Arlo SoHo,Hotels,3.5,$$,231 Hudson St,40.724495,-74.007965,https://www.yelp.com/biz/arlo-soho-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,QnNDwDZDVAatr1Q_UBBl-w
+71,Astor On The Park Hotel,Hotels,3.0,$$,465 Central Park W,40.7984700162487,-73.9599083391796,https://www.yelp.com/biz/astor-on-the-park-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,EikHmTo7OH2lkNqlFMWZFA
+72,The Jane Hotel,Hotels,2.5,$$,113 Jane St,40.738362,-74.009413,https://www.yelp.com/biz/the-jane-hotel-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,sDrRAoS8yhs091NMn52_QA
+73,Hampton Inn Ridgefield Park,Hotels,3.0,$$,100 Route 46 E,40.844709,-74.014747,https://www.yelp.com/biz/hampton-inn-ridgefield-park-ridgefield-park?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,QWPqFLDkdziHCkaFZxSAQg
+74,Wyndham Garden Chinatown,Hotels,3.5,$$,93 Bowery,40.7171,-73.99533,https://www.yelp.com/biz/wyndham-garden-chinatown-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,adpehB-xkZzcmH4iYMMPNA
+75,LUMA Hotel Times Square,Hotels,4.5,$$$,120 W 41st St,40.754428,-73.985781,https://www.yelp.com/biz/luma-hotel-times-square-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,006_rHOAhT87Xf6XoY_IxQ
+76,11 Howard,Hotels,3.0,$$$,11 Howard St,40.7188821441743,-74.0003628709909,https://www.yelp.com/biz/11-howard-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,eGkOkpRpzpU6KV3NDJq4vw
+77,Courtyard Long Island City/ New York Manhattan View,Hotels,3.5,$$,29-15 Queens Plz N,40.750063,-73.937074,https://www.yelp.com/biz/courtyard-long-island-city-new-york-manhattan-view-long-island-city-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,bFchhkoymkn6e50WEnHYMw
+78,The Leon Hotel,Hotels,3.5,$$,125 Canal St,40.716076,-73.9952133,https://www.yelp.com/biz/the-leon-hotel-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,pi2sOXrCKVpKdPMaSwJ-_Q
+79,Hilton Garden Inn New York Times Square South,Hotels,3.5,$$$,326 W 37th St,40.754486,-73.9935985207558,https://www.yelp.com/biz/hilton-garden-inn-new-york-times-square-south-new-york-city?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,OExta9oMRDtP1i685S5lyg
+80,Long Beach Hotel,Hotels,2.5,$$,405 E Broadway,40.585109,-73.652076,https://www.yelp.com/biz/long-beach-hotel-long-beach?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hObG_aqfJDWSBD0IOJwy2g
+81,Comfort Inn Times Square West,Hotels,3.5,$$,343 W 44th St,40.7595373,-73.9906663,https://www.yelp.com/biz/comfort-inn-times-square-west-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,x_vpf-UHDFNUIc-rKIszcA
+82,Smyth Tribeca,Hotels,3.5,$$$,85 W Broadway,40.71521,-74.00913,https://www.yelp.com/biz/smyth-tribeca-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,hgxKRLRia2Yh_jDNXli9Tg
+83,The Peninsula New York,Hotels,4.0,$$$$,700 5th Ave,40.7616907,-73.9753957,https://www.yelp.com/biz/the-peninsula-new-york-new-york-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Ri8krke2m4e89XYxP_PLsA
+84,Arlo NoMad,Hotels,4.0,$$,11 E 31st St,40.746212,-73.9850458,https://www.yelp.com/biz/arlo-nomad-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,QxobzmaLiP_Tx6cnmpWQPg
+85,Travel Inn,Hotels,2.5,$$,515 W 42nd St,40.760288,-73.995948,https://www.yelp.com/biz/travel-inn-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,vcOJH2n7TWzbj6drF6QvIA
+86,M Social Hotel Times Square New York,Hotels,,,226 W 52nd St New York Ny 10019,40.76277,-73.98359,,
+87,Club Quarters,Hotels,4.0,$$,140 Washington St,40.709846496582,-74.0139694213867,https://www.yelp.com/biz/club-quarters-manhattan?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,giPwSjP4T0ZkXoygdbNfIA
+88,The New Yorker Hotel,Hotels,2.5,$$,481 8th Ave & 34th St,40.75263,-73.99338,https://www.yelp.com/biz/the-new-yorker-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,shXAApXgDfdUnfCMwN_l2w
+89,The Manhattan at Times Square Hotel,Hotels,2.0,$$,790 7th Ave 51st St,40.7619404654998,-73.9829850327311,https://www.yelp.com/biz/the-manhattan-at-times-square-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,CDBij9VtSZHaPIAGiodgmw
+90,The Nolitan Hotel,Hotels,4.5,$$$,30 Kenmare St,40.7205772,-73.9953391,https://www.yelp.com/biz/the-nolitan-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,9TK6ea3GR2B6H6jErPRlTw
+91,"The Standard, East Village",Hotels,3.5,$$,25 Cooper Sq,40.7278523436442,-73.9907492250947,https://www.yelp.com/biz/the-standard-east-village-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,VMGinfrQm6JQfGMUsDFBfg
+92,Hotel 50 Bowery NYC,Hotels,4.5,$$,50 Bowery,40.71599,-73.99683,https://www.yelp.com/biz/hotel-50-bowery-nyc-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,GYO8lvStXGZAfFDRlOxQ1Q
+93,Courtyard New York Downtown Manhattan / World Trade Center Area,Hotels,3.5,$$,133 Greenwich Street,40.7093690569023,-74.0126568062562,https://www.yelp.com/biz/courtyard-new-york-downtown-manhattan-world-trade-center-area-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,yPUiLatBIeFPaaP3MwXaOQ
+94,Hyatt Place,Hotels,,,350 W 39th St,40.755971,-73.993702,,
+95,PUBLIC Hotel,Hotels,2.5,$$$,215 Chrystie St,40.72307,-73.99203,https://www.yelp.com/biz/public-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,t6efAU5wYjIMd6T6eGbeWg
+96,Westgate New York Grand Central,Hotels,,,304 East 42nd Street New York Ny 10017,40.7494266,-73.9719652,,
+97,Hyatt Centric Times Square New York,Hotels,4.0,$$$,135 W 45th St,40.7575027,-73.9840148,https://www.yelp.com/biz/hyatt-centric-times-square-new-york-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,lSMv7ok2OBIQ4FP2C6xVhQ
+98,Wythe Hotel,Hotels,3.0,$$$,80 Wythe Ave N,40.72188667,-73.958105,https://www.yelp.com/biz/wythe-hotel-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,EeQnc16aQ2-H8WN9reGGZg
+99,The Benjamin,Hotels,4.0,$$$,125 E 50th St,40.75648,-73.97206,https://www.yelp.com/biz/the-benjamin-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1wdNxsW1jqieYmYi0CHlbQ
+100,Hotel Edison,Hotels,3.0,$$,228 W 47th St,40.759648,-73.986134,https://www.yelp.com/biz/hotel-edison-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1nK63AUO7WeIsUgfpa8NcQ
+101,Wyndham Garden Rego Park,Hotels,3.0,$$,92-77 Queens Blvd,40.7320594,-73.8664298,https://www.yelp.com/biz/wyndham-garden-rego-park-rego-park?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,i1wY8Jepibh_LojcjOeJNA
+102,Chambers Hotel,Hotels,4.0,$$$,15 W 56th St,40.76281,-73.97543,https://www.yelp.com/biz/chambers-hotel-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,O2XftDtyGcUiPW40zwteSg
+103,The Box House Hotel,Hotels,3.5,$$,77 Box St,40.73782,-73.95354,https://www.yelp.com/biz/the-box-house-hotel-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,1Jyg_gj0yNGR8TqvOEQ4iQ
+104,East Village Hotel,Hotels,4.0,$$$,147 1st Ave,40.72836,-73.98497,https://www.yelp.com/biz/east-village-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,0SrF_WcRetbGWlps7ZhJNw
+105,Chelsea Pines Inn,Hotels,4.0,$$,317 W 14th St,40.740295,-74.003415,https://www.yelp.com/biz/chelsea-pines-inn-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,XRt4mVzNQbXkC6mxFl7-Sg
+106,MADE,Hotels,4.0,$$$,42 W 29th St,40.746296,-73.989638,https://www.yelp.com/biz/made-new-york-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,S552XBLEOFsT-efRQuNXDg
+107,YOTEL New York,Hotels,3.0,$$$,570 Tenth Ave,40.7591568,-73.9954561,https://www.yelp.com/biz/yotel-new-york-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,LtVO-82pFdwjq-hwMITAPg
+108,The Marcel At Gramercy Hotel,Hotels,3.5,$$,201 E 24th St,40.7394583391532,-73.9822778281936,https://www.yelp.com/biz/the-marcel-at-gramercy-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,dvmwom34Svhnc_k0OK1VjQ
+109,voco The Franklin,Hotels,,,164 E 87th St,40.779734,-73.954523,,
+110,Hampton Inn Manhattan-Seaport-Financial District,Hotels,3.5,$$,320 Pearl St,40.7092877829272,-74.0018302202225,https://www.yelp.com/biz/hampton-inn-manhattan-seaport-financial-district-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,4erImwfLkNUDipUSF4Ocpw
+111,AC Hotel by Marriott New York Times Square,Hotels,3.5,$$,260 W 40th St,40.755402,-73.990091,https://www.yelp.com/biz/ac-hotel-by-marriott-new-york-times-square-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,teaHbyg54uqKEMAzjAf-Ug
+112,Hotel Belleclaire,Hotels,3.5,$$,2175 Broadway,40.782425,-73.9811603,https://www.yelp.com/biz/hotel-belleclaire-new-york-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,j9FLBQ5PuTkWm0q0Aa5tBw
+113,Aloft New York Brooklyn,Hotels,3.0,$$,216 Duffield St,40.69171,-73.98453,https://www.yelp.com/biz/aloft-new-york-brooklyn-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,PkJjSD067n6o9nnmyWNtQQ
+114,Orchard Street Hotel,Hotels,3.0,$$,163 Orchard St,40.72114,-73.98881,https://www.yelp.com/biz/orchard-street-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,yZXN-Qj3x81ivd3Lr6Cjbw
+115,Pod Brooklyn Hotel,Hotels,3.5,$$,247 Metropolitan Ave,40.71502,-73.95903,https://www.yelp.com/biz/pod-brooklyn-hotel-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,KKhFd2VBfIj5n4t0rYVMYQ
+116,Holiday Inn Express New York City-Wall Street,Hotels,3.5,$$,126 Water St,40.70559,-74.00723,https://www.yelp.com/biz/holiday-inn-express-new-york-city-wall-street-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ZDJMWEI7GmMTaaZwenWt5Q
+117,Hotel Riu Plaza New York Times Square,Hotels,3.0,$$$,305 W 46th St,40.759942,-73.988074,https://www.yelp.com/biz/hotel-riu-plaza-new-york-times-square-new-york-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,TUWQm_jjmA6gs_wKs-NOrA
+118,The Allen Hotel,Hotels,3.5,$$,88 Allen St,40.71806,-73.99069,https://www.yelp.com/biz/the-allen-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,3gHIMcUaeQHesJhYPbXjfg
+119,The Greenwich Hotel,Hotels,4.5,$$$$,377 Greenwich St,40.719848,-74.009864,https://www.yelp.com/biz/the-greenwich-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,V12xO69xVoHWSXBpb3zQ4w
+120,Pod 51,Hotels,3.5,$$,230 E 51st St,40.7558617771518,-73.9691277840614,https://www.yelp.com/biz/pod-51-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,PmmTXis1gCL34mg2bZ9gtw
+121,1 Hotel Brooklyn Bridge,Hotels,3.5,$$$,60 Furman St,40.701729,-73.995882,https://www.yelp.com/biz/1-hotel-brooklyn-bridge-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,6H427bZqS7bqAR-tU8GKDw
+122,EVEN Hotel Brooklyn,Hotels,3.5,$$,46 Nevins St,40.687842,-73.98187,https://www.yelp.com/biz/even-hotel-brooklyn-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,TSWhn9EMtv8hYra-Xd2QUw
+123,The Williamsburg Hotel,Hotels,3.0,$$,96 Wythe Ave,40.7215137888895,-73.9587011987419,https://www.yelp.com/biz/the-williamsburg-hotel-brooklyn-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,xsrzs3lSD2-xG889sLqAXA
+124,Henry Norman Hotel,Hotels,4.0,$$,251 N Henry St,40.7280006,-73.9442368,https://www.yelp.com/biz/henry-norman-hotel-greenpoint?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,nzv7QCUPH-QKzNHfUnsN8w
+125,Hampton Inn Manhattan-Chelsea,Hotels,4.0,$$,108 W 24th St,40.7436548,-73.9930707,https://www.yelp.com/biz/hampton-inn-manhattan-chelsea-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,aCruJ1jAhr6iluwWLqP_vw
+126,The Broome Hotel New York,Hotels,4.5,$$$,431 Broome St,40.721297,-73.9993957,https://www.yelp.com/biz/the-broome-nyc-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,LSO3Ql7e_Y9nFJmnWdbTPg
+127,The Moderne Hotel,Hotels,3.5,$$,243 W 55th St,40.76516,-73.98294,https://www.yelp.com/biz/the-moderne-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ZoFin2VDJSK2U3QQ2su8tw
+128,Cambria Hotel New York - Chelsea,Hotels,4.5,$$,123 W 28th St,40.746727,-73.991567,https://www.yelp.com/biz/cambria-hotel-new-york-chelsea-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,qLV7zNf9CE6C1Nsb3i20PQ
+129,Moxy NYC East Village,Hotels,,,112 E 11th St,40.731601,-73.989509,,
+130,Freehand New York,Hotels,3.5,$$,23 Lexington Avenue,40.7395562,-73.9845026,https://www.yelp.com/biz/freehand-new-york-new-york-3?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,7OFXPjl-7kI2d4Tji6QjMw
+131,Park Terrace Hotel,Hotels,,,18 W 40th St,40.75249,-73.9831,,
+132,Red Roof Inn Parsippany,Hotels,2.5,$,855 US Hwy 46,40.861361,-74.378122,https://www.yelp.com/biz/red-roof-inn-parsippany-parsippany?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,P4Uu0jGobqaIga_p6Y8zMQ
+133,The Collective Paper Factory,Hotels,3.0,$$,37-06 36th St,40.75252,-73.927616,https://www.yelp.com/biz/the-collective-paper-factory-long-island-city?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,ns2IC-T6lTA2RqNbEm2yFQ
+134,"Gatsby Hotel, an Ascend Hotel Collection Member",Hotels,3.0,$$,135 E Houston St,40.723121,-73.990244,https://www.yelp.com/biz/gatsby-hotel-an-ascend-hotel-collection-member-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,DpMF7BLDeDjSnMMSnxmsXQ
+135,Royalton Hotel,Hotels,3.5,$$$,44 W 44th St,40.755476,-73.9823936442459,https://www.yelp.com/biz/royalton-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,5SXut8piS-p09mGUXpO_nw
+136,Stewart Hotel,Hotels,3.0,$$$,371 Seventh Ave,40.7487243,-73.9916396,https://www.yelp.com/biz/stewart-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,EWNeD-svJjByk9v1cg2FzA
+137,Dylan Hotel NYC,Hotels,3.0,$$,52 E 41st St,40.7518116,-73.9793818,https://www.yelp.com/biz/dylan-hotel-nyc-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,OlsTHVq531-XqxUGzke-bA
+138,Hotel RL Brooklyn,Hotels,3.0,$$,1080 Broadway,40.694313,-73.931017,https://www.yelp.com/biz/hotel-rl-brooklyn-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,gZFGyZzA1ufuKCbXq5Y12A
+139,Hotel Indigo Williamsburg - Brooklyn,Hotels,,,500 Metropolitan Ave,40.7138775705954,-73.9522615169777,,
+140,The Ridge,Hotels,3.5,$$,151 E Houston St,40.72287,-73.9894,https://www.yelp.com/biz/the-ridge-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,W3K4-SbrRu54VoyNDCe6SA
+141,36 Hudson Hotel,Hotels,,,449 W 36th St,40.7558179,-73.9975248,,
+142,ArtHouse Hotel New York City,Hotels,3.5,$$,2178 Broadway W 77th St,40.7822024522958,-73.9802998214264,https://www.yelp.com/biz/arthouse-hotel-new-york-city-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,NUPSfXetWw2TaQSOfSqOWw
+143,Washington Hotel Corporation,Hotels,,,400 Washington Ave,40.68695,-73.9658199,,
+144,Hotel on Rivington,Hotels,3.5,$$$,107 Rivington St,40.7199,-73.98803,https://www.yelp.com/biz/hotel-on-rivington-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,Z4t_Wsmjgi8I5n1xPSQWTA
+145,McCarren Hotel & Pool,Hotels,3.0,$$$,160 N 12th St,40.7209524,-73.9553668,https://www.yelp.com/biz/mccarren-hotel-and-pool-brooklyn?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,NJR4lyaLF4-3kJ3eNK9cpA
+146,Moxy NYC Downtown,Hotels,,,26 Ann St,40.71068,-74.00783,,
+147,Edge Hotel,Hotels,4.5,$,514 W 168th St,40.84003,-73.93793,https://www.yelp.com/biz/edge-hotel-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,12uKh8vTsC1D2PhP8ECRdg
+148,The Roger New York,Hotels,4.0,$$$,131 Madison Ave,40.74564,-73.98433,https://www.yelp.com/biz/the-roger-new-york-new-york-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,jlYBRoa-TVnhdejw5QLZQA
+149,The Westin New York at Times Square,Hotels,3.5,$$$,270 West 43rd St,40.7577169686556,-73.9889696985483,https://www.yelp.com/biz/the-westin-new-york-at-times-square-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,y-j9iYZ8k06RNFqY785TPA
+150,Hotel Indigo Newark Downtown,Hotels,3.0,$$,810 Broad St,40.73465,-74.17207,https://www.yelp.com/biz/hotel-indigo-newark-downtown-newark-2?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,jLE-2TeMEw0rXu-wAAAU3A
+151,Home Design Rx,Interior Design,,,80 Lorraine St,40.6742553412914,-74.0066843479872,,
+152,Falcon Locksmith,Keys & Locksmiths,,,1259 Myrtle Ave,40.69791,-73.92847,,
+153,WiroLimo,Limos,,,,40.72668,-73.97971,,
+154,Free Your Arms,Luggage Storage,,,294 Broadway,40.7083616,-73.9582854,,
+155,SEKA Moving,Movers,,,800 3rd Ave,40.7556476,-73.9713866,,
+156,Dan's Moving Service,Movers,,,,40.6682971044299,-73.9803112632295,,
+157,No Problem Express Movers,Movers,,,1 Carlton Ave,40.69780910573983,-73.97340558425404,,
+158,SEKA Moving,Movers,,,35 W 9th St,40.67708445066858,-74.00506930839848,,
+159,Cleaning Pros OF New Jersey,Office Cleaning,,,186 Paterson Ave,40.83228,-74.09589,,
+160,Pro-Green Cleaners,Office Cleaning,,,,40.7251,-73.94755,,
+161,Rapid Maid Specialists NYC,Office Cleaning,,,1814 Stephen St,40.69897,-73.9002299,,
+162,Grout Pros NYC,Painters,,,150 50th Ave,40.743319,-73.959015,,
+163,Bullseye Mechanical Corp.,Plumbing,,,329 Broome St,40.719081,-73.993889,,
+164,Needs-First Tech,Private Tutors,,,,40.70280075073242,-74.08844757080078,,
+165,Yorkshire Towers,Property Management,,,305-315 E 86th St,40.7778312517788,-73.9516255875254,,
+166,Makomi,Property Management,,,137 West 25th St,40.74508,-73.99342,,
+167,Airbnb In NYC,Property Management,,,,40.7193984985352,-74.0030212402344,,
+168,GFB Management,Property Management,,,226 West 150th St,40.8251874,-73.9379045,,
+169,Cityami,Property Management,,,442 Broadway,40.720087,-74.000892,,
+170,Aya,Property Management,,,1220 Broadway,40.746924,-73.988091,,
+171,Chris Aivaliotis - Voro Realty,Real Estate Agents,,,,40.74606,-73.94842,,
+172,The Jim Farah Team- Compass,Real Estate Agents,,,90 5th Ave,40.736366,-73.993751,,
+173,The Price Law Firm,Real Estate Law,,,1115 Broadway,40.743011,-73.989799,,
+174,Ezamani Photography,Real Estate Photography,,,,40.72218,-74.04497,,
+175,Andy Ryan Photographer,Real Estate Photography,,,,40.71217,-73.96372,,
+176,Concept Photography,Real Estate Photography,,,83 3rd Ave,40.7594287,-74.17006923102808,,
+177,Leon Cato Photography,Real Estate Photography,,,,40.7388038635254,-73.8783798217773,,
+178,Joe Comfort Photography,Real Estate Photography,,,695 Bergen Ave,40.723869,-74.070461,,
+179,APT212,Real Estate Services,,,,40.7255554199219,-73.9979934692383,,
+180,Hauseit,Real Estate Services,,,,40.7491302490234,-73.9923629760742,,
+181,GB Properties,Real Estate Services,,,1059 Fulton St,40.68203,-73.95938,,
+182,Mirador Real Estate,Real Estate Services,,,16 E 12th St,40.734065,-73.9937052,,
+183,Rentiko,Real Estate Services,,,30-01 Northern Blvd,40.751248,-73.9349259,,
+184,One Star House Party,Restaurants,,,436 W 20th,40.74524,-74.00447,,
+185,Subbnb,Self Storage,,,290 Broadway,40.70841,-73.95846,,
+186,MakeSpace - New York,Self Storage,,,,40.757929,-73.985506,,
+187,Rincon Tax Advisory Services,Tax Services,,,101 Hudson St,40.7160735,-74.0350651,,
+188,Quick Ride Corp,Taxis,,,88 Hester St,40.71627,-73.99243,,
+189,The Levys' Unique New York!,Tours,,,,40.646181,-73.957062,,
+190,Travendly,Travel Services,,,137 W 25th St,40.7450743,-73.9934315,,
+191,Sonder,Travel Services,,,,40.70613748497983,-74.0089147358817,,
+192,EHS St. George Towers Residence,University Housing,,,55 Clark St,40.6977,-73.99357,,
+193,Domio Monroe Square,Vacation Rentals,,,915 Monroe St,36.174379,-86.794612,,
+194,TownQuarters,Vacation Rentals,,,,40.72198,-74.04447,,
+195,New York Habitat,Vacation Rentals,,,307 7th Ave,40.74687,-73.99342,,
+196,onefinestay,Vacation Rentals,,,52 Walker St,40.7271179,-74.0075051,,
+197,Your Home Away From Home,Vacation Rentals,,,101 W 25th St,40.74437,-73.99207,,
+198,EVEN Hotel New York - Times Square South,Venues & Event Spaces,4.5,$$,321 W 35th St,40.75339,-73.99398,https://www.yelp.com/biz/even-hotel-new-york-times-square-south-new-york?adjust_creative=-uBzzloii2ivvF3N0jkhKQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=-uBzzloii2ivvF3N0jkhKQ,JoTABkVslu17SgDDZsQTog
+199,The Little Wine Bus,Wine Tours,,,1232 78th St,40.61932,-74.0107,,

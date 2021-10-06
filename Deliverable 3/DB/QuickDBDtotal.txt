@@ -1,0 +1,54 @@
+
+london_weather_yyyy_mm
+-
+index PK int FK >- nyc_weather_yyyy_mm.index
+year int
+month_num int
+avg_high_temp_f num
+avg_low_temp_f num
+total_rainfall_inches num
+days_of_air_frost int
+total_sunshine_duration_hours num
+
+nyc_weather_yyyy_mm
+-
+index PK int
+year int
+month_num int
+avg_high_temp_f num
+avg_low_temp_f num
+avg_total_precipitation_inches num
+avg_total_snowfall_inches num
+
+london
+-
+Name text
+Geometry text
+Address text
+Lattitude text
+Longitude text
+Category text
+
+new_york
+-
+Name PK text FK >- ny_extra.Name
+Geometry text
+Address text
+Lattitude text
+Longitude text
+Category text
+
+ny_extra
+-
+Name PK text FK >- new_york_joined.Name
+Details text
+
+new_york_joined
+-
+Name PK text FK >- new_york.Name
+Geometry text FK >- new_york.Geometry
+Address text FK >- new_york.Address
+Lattitude text FK >- new_york.Lattitude
+Longitude text FK >- new_york.Longitude
+Category text FK >- new_york.Category
+Details text FK >- ny_extra.Details
