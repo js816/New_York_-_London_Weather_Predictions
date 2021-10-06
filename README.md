@@ -1,4 +1,4 @@
-#  Big City Vacation - Deliverable 3
+#  Big City Vacation
 
 ## Team:
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
