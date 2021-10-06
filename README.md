@@ -34,7 +34,7 @@ https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/Vacat
 
 <li>	Updated our Machine Learning Model from Neural Network Model to a simpler Linear Regression Model. Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model. We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project. By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.
 
-![image](https://user-images.githubusercontent.com/82008319/134836194-cd427175-982d-4940-abb0-d5eb37843ac9.png)
+![image](https://user-images.githubusercontent.com/82008319/136149357-9056d139-2811-44b1-b364-781238195d04.png)
 
 A separate model was developed for each city (London and New York City), for each month of the year, and for each weather feature. The weather features that our models predict are:
 
