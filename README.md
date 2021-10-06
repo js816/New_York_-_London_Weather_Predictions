@@ -11,8 +11,8 @@ https://docs.google.com/presentation/d/e/2PACX-1vSHPDfYkY7D8Y6JWAzLDjEQbPk9rEafH
 
 ## Story:
 Big City Vacation: Choose from NYC or London. 
-When shall you go? Our team will provide a table of predicted weather so that you can make your own decision based on your comfort level.
-Would you like to build an itinerary? Out story board offers multiple maps for each of the cities, one layers hotels, another provides points of interests, and the last map showcases food and spirit options.
+When shall you go? Our team provides a table of predicted weather so that you can make your own decision based on your comfort level.
+Would you like to build an itinerary? Our tableau story board offers multiple maps for each of the cities, one layers hotels, another provides points of interests, and the last map showcases food and spirit options.
 
 ## Dashboard:
 https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/VacationStory?publish=yes
