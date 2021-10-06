@@ -49,6 +49,8 @@ Model performance varied.  Some factors influencing this include:
 
 Full model results and performance are include in the appendix below.
 
+For future analysis, we should compare our predictions to the actual weather conditions for each month for 2022 and 2023.  This will allow us to evaluate the effectiveness of our models and prediction approach.
+
 ## Weather predictions
 
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible.  We used a number of suggestions from *Storytelling with Data: A Data Visualization Guide for Business Professionals* by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity.  We also used an [online simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that those who are color blind can differentiate between highs and lows.
