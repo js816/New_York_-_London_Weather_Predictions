@@ -4,15 +4,15 @@
 Laura Clark (circle), Christine Mitchell (square), and Josh Stephens (triangle)
 
 ## Why did we choose this topic:
-Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how fun it would be to plan a trip to a few major cities creating an interactive layered map visualization in tableau that allows you to create an itinerary.    
+Our team was interested in creating a fun and adventurous project utilizing tools and skills that we learned throughout the course. We all enjoyed working with maps. So, we thought how exciting it would be to plan out a trip to a few major cities by creating an interactive layered map visualization in tableau.
 
 ## Presentation:
 https://docs.google.com/presentation/d/e/2PACX-1vSHPDfYkY7D8Y6JWAzLDjEQbPk9rEafHPrW1vApHoetRfHzEp_DiWalxgsOKQDRdVrYqmN-JER3ABk_/pub?start=true&loop=false&delayms=3000
 
 ## Story:
 Big City Vacation: Choose from NYC or London. 
-When shall you go? Our team will provide a table of predicted weather so you know the best time go best on your comfort level. 
-Would you like to build an itenerary? We've got a map of the city that is layered with hotels, points of interests, and restaurants options.
+When shall you go? Our team will provide a table of predicted weather so that you can make your own decision based on your comfort level.
+Would you like to build an itinerary? Out story board offers multiple maps for each of the cities, one layers hotels, another provides points of interests, and the last map showcases food and spirit options.
 
 ## Dashboard:
 https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/VacationStory?publish=yes
@@ -49,6 +49,12 @@ Model performance varied. Some factors influencing this include:
 <li>	monthly weather variance from year to year</li> 
 <li>	varying makeup of training and testing data</li>  
 <li>	varying weather features and scales</li> <br/>   
+
+![image](https://user-images.githubusercontent.com/82008319/136144380-d3cf0f69-8e1e-48cb-b73f-d457575b269b.png)
+
+Full model results and performance are include in the appendix below.
+
+For future analysis, we should compare our predictions to the actual weather conditions for each month for 2022 and 2023. This will allow us to evaluate the effectiveness of our models and prediction approach.
 
 ## Weather Predictions:
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible. We used a number of suggestions from Storytelling with Data: A Data Visualization Guide for Business Professionals by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity. We also used an online simulator to ensure that those who are color blind can differentiate between highs and lows.
@@ -107,5 +113,23 @@ Although the format differed between most of the datasets, they all had a name, 
 
 ### Restaurants:
 https://www.yelp.com/developers/documentation/v3/business_search<br/>
-We originally were going to use YELP dataset via Kaggle, however found that the dataset offered was limited. For example there were only three restaurants in NYC. Therefore, we decided to utilize the Yelp Business Search API. Next, we found that YELP set a data limit of 200 records (50/call up to 4 calls with the set parameters). Hence, we created different parameters by choosing different restaurant types to build our dataset. Continuing with the NYC Restaurant example we went from 3 records in Deliverable 1, to 200 for Deliverable 2, and finished up with just over 4,400 records for Deliverable 3.<br/><br/>
+We originally were going to use YELP dataset via Kaggle, however found that the dataset offered was limited. For example there were only three restaurants in NYC. Therefore, we decided to utilize the Yelp Business Search API. Next, we found that YELP set a data limit of 200 records (fifty records per call) up to two hundred records with the established parameters). Hence, we created batches of sets of 200 based on restaurant types to build our dataset. Continuing with the NYC Restaurant example we went from 3 records in Deliverable 1, to 200 for Deliverable 2, and finished up with over 4,000 records for Deliverable 3.<br/><br/>
+
+### Appendix
+
+## High Temperature Model
+
+![image](https://user-images.githubusercontent.com/82008319/136144485-36f0a940-accc-4385-b136-b12c4d95ab0f.png)
+
+## Precipitation Model Results
+
+![image](https://user-images.githubusercontent.com/82008319/136144534-17c42eea-ce34-4557-a268-ae6f272db8cd.png)
+
+## NYC Snowfall Model Results
+
+![image](https://user-images.githubusercontent.com/82008319/136144581-7ac9c58c-14d7-43d7-9eac-e6c4da85d486.png)
+
+## London Sunshine Model Results
+
+![image](https://user-images.githubusercontent.com/82008319/136144617-8c77b6e4-9f03-49de-bca8-b8eb87f79ff9.png)
 
