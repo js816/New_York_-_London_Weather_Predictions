@@ -21,6 +21,8 @@ https://public.tableau.com/app/profile/laura.clark2190/viz/VacationProject/Vacat
 
 ![VacationStory (1)](https://user-images.githubusercontent.com/82008319/135797724-f6bf793d-989a-4140-9e7d-0a10ced102c5.png)
 
+
+
 ## Tools & Technologies: 
 <li>	Excel for initial csv file data exploration and some cleaning. </li> <br/> 
 
