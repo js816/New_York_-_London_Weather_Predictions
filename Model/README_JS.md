@@ -118,7 +118,6 @@ We compared performance of these models to models that included data for months 
 
 
 
-
 # Technologies to be used
 
 * Tableau for mapping and prompting user to select desired temperature
