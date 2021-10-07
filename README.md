@@ -54,6 +54,10 @@ Model performance varied. Some factors influencing this include:
 
 ![image](https://user-images.githubusercontent.com/82008319/136144380-d3cf0f69-8e1e-48cb-b73f-d457575b269b.png)
 
+During our presentation, we were asked about r2 scores which we had not originally captured. We reran the model, this time adding a random_state value, and the r2 scores of our updated model are shown below. There is not a strong correlation between our values and the weather can be difficult to predict precisely. This is even true for meterologists predicting tomorrow's weather. Since our project was to show the big picture for our travelers and we created prediction ranges instead of trying to predict precise values, we're hopeful our predictions will both be helpful to travelers and reasonably accurate.
+
+![image](https://user-images.githubusercontent.com/82008319/136459951-29a96987-d7f1-497a-825a-fb24a9eb8e89.png)
+
 Full model results and performance are include in the appendix below.
 
 For future analysis, we should compare our predictions to the actual weather conditions for each month for 2022 and 2023. This will allow us to evaluate the effectiveness of our models and prediction approach.
