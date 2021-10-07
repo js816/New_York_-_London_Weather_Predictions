@@ -26,6 +26,8 @@ We compared performance of these individual-month models to models that included
 
 In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  Our final model does not create these.
 
+Next time we would use a random_state value to have more consistent model performance and less confusion.
+
 ## Prediction creation
 
 To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value.  We then rounded the total rainfall and snowfall to the nearest tenth of an inch.  For temperature and sunshine hours, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.  
@@ -45,7 +47,12 @@ Model performance varied.  Some factors influencing this include:
 
 ![model_mse](https://user-images.githubusercontent.com/82730954/135939879-28679f09-6164-471b-9c31-50c2fb40d92e.png)
 
-Full model results and performance are include in the appendix below.
+During our presentation, we were asked about r2 scores which we had not originally captured.  We reran the model, this time adding a random_state value, and the r2 scores of our updated model are shown below.  There is not a strong correlation between our values and the weather can be difficult to predict precisely.  This is even true for meterologists predicting tomorrow's weather.  Since our project was to show the big picture for our travelers and we created prediction ranges instead of trying to predict precise values, we're hopeful our predictions will both be helpful to travelers and reasonably accurate.
+
+![model_r2_scores](https://user-images.githubusercontent.com/82730954/136451573-d80d1546-83bd-4b64-8f43-37abaf80f04c.png)
+
+
+Full model results and performance are included in the appendix below.
 
 For future analysis, we should compare our predictions to the actual weather conditions for each month for 2022 and 2023.  This will allow us to evaluate the effectiveness of our models and prediction approach.
 
