@@ -30,9 +30,7 @@ In preliminary versions of our models, graphs were created with a scatter plot f
 
 To create the predicted weather ranges for each city, we used the Mean Absolute Error (MAE) -/+ the predicted value.  We then rounded the total rainfall and snowfall to the nearest tenth of an inch.  For temperature and sunshine hours, we rounded down to the nearest integer for the low end of the prediction range and up to the nearest integer for the high end of the range.  
 
-Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature.  An example for London is shown below:
-
-![image](https://user-images.githubusercontent.com/82730954/134777236-cacda1c0-c73a-4030-aac7-fce428254126.png)
+Initially we planned to show predictions for 2022 and 2023 but we found these ranges were nearly identical thus we only show one column for each weather feature.  
 
 ## Comparing simple linear model to neural network
 
@@ -55,9 +53,9 @@ For future analysis, we should compare our predictions to the actual weather con
 
 Once our weather predictions were created, we iterated through several layouts and color schemes so the tables are as easy for our customer to interpret as possible.  We used a number of suggestions from *Storytelling with Data: A Data Visualization Guide for Business Professionals* by Cole Nussbaumer Knaflic to help reduce clutter and increase clarity.  We also used an [online simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to ensure that those who are color blind can differentiate between highs and lows.
 
-![london_weather_predictions](https://user-images.githubusercontent.com/82730954/135716643-937406d0-f9c1-4d93-bcc2-7e65f742f486.png)
+![london_weather_predictions](https://user-images.githubusercontent.com/82730954/136260932-a243872e-ddbb-4132-b21a-050c7adef372.png)
 
-![nyc_weather_predictions](https://user-images.githubusercontent.com/82730954/135716650-302853ec-9704-4b79-9fdb-63bf243a4480.png)
+![nyc_weather_predictions](https://user-images.githubusercontent.com/82730954/136260960-bf475632-1ca1-41c6-8ec6-f064a3a50c9e.png)
 
 
 # Technologies
