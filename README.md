@@ -135,3 +135,23 @@ We originally were going to use YELP dataset via Kaggle, however found that the 
 ## London Sunshine Model Results
 ![image](https://user-images.githubusercontent.com/82008319/136265464-7db9217b-3b8c-40a8-a46e-eb78a7c115f8.png)
 
+## New models including r2 scores
+
+Below are outputs, including r2 scores, from new models.  Because we did not use a random_state value in earlier stages of our models, the outputs from these models differ and cannot be compared directly to the results above.  Next time, we would use a random_state value throughout to increase consistency and reduce pain points.
+
+### New high temp models with r2 scores
+
+![r2_high_temp_model_results](https://user-images.githubusercontent.com/82730954/136567832-5f66df30-0268-4ebf-b6c9-00f6de92ce45.png)
+
+### New precipitation models with r2 scores
+
+![r2_precip_model_results](https://user-images.githubusercontent.com/82730954/136567860-5e70568a-3810-44a8-9424-e759f6488485.png)
+
+### New NYC snowfall models with r2 scores
+
+![r2_snowfall_model_results](https://user-images.githubusercontent.com/82730954/136567887-444285cc-31e6-49bd-b2bb-b5a5999d6c70.png)
+
+### New London sunshine models with r2 scores
+
+![r2_sunshine_model_results](https://user-images.githubusercontent.com/82730954/136568249-ab252b9b-5c9f-4011-9f78-2cdd74f57c37.png)
+
