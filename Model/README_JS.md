@@ -1,14 +1,14 @@
 # Final_Project_Travel
 
 
-# Machine Learning Model
+# Machine Learning Models
 
 ![final_linear_model](https://user-images.githubusercontent.com/82730954/136079845-1f5e5909-5d6d-41d7-bf96-9038013dde8d.png)
 
 
 ## Model selection
 
-For our ML model, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this model instead of our previously identified neural network model.  We made this change because we felt the linear model was easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing this model, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.  
+For our ML models, we revisited an earlier idea of a simple linear regression model.  Upon reviewing some preliminary trends, we decided to select this approach instead of our previously identified neural network models.  We made this change because we felt the linear models were easier to leverage and more effectively provided the predictions we wanted for our project.  By utilizing these models, however, we lose the ability to customize various options such as the number of hidden layers, the number of neurons in each hidden layer, and activation functions.  
 
 ## Model development
 
@@ -22,9 +22,9 @@ Minimal data cleaning was performed during the EDA and prior to the data being s
 
 We used Scikit-learn's train_test_split to separate our dataset into training sets and testing sets.  Each model is trained on 75% of the dataset and tested on the remaining 25%.  To evaluate our models, we utilized Mean Squared Error (MSE).  
 
-We compared performance of these individual-month models to models that included data for all months and used month number as an input.  When comparing model performance, the individual-month models generally had much better performance.  For the rainfall model, however, the combined model performed slightly better.  For consistency purposes, all models were broken out into individual months.  
+We compared performance of these individual-month models to models that included data for all months and used month number as an input.  When comparing model performance, the individual-month models generally had much better performance.  For consistency purposes, all models were broken out into individual months.  
 
-In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  Our final model does not create these.
+In preliminary versions of our models, graphs were created with a scatter plot for training and testing data and a line for the prediction model.  Our final models do not create these.
 
 Next time we would use a random_state value to have more consistent model performance and less confusion.
 
@@ -36,7 +36,7 @@ Initially we planned to show predictions for 2022 and 2023 but we found these ra
 
 ## Comparing simple linear model to neural network
 
-To ensure that we use the most appropriate model, we also created a neural network linear model and compared model performance.  We found that overall, model performance was generally better with the simple linear model.  For isolated months for some features had better performance.  For rainfall data the neural network model was slightly better.  Though the impact to our predictions would have been very minimal.  With greater customization of the various options, neural networks could prove to provide better experience at some point.  However, due to the simplicity and ease of use and interpretation, we decided to use the simple linear model for all predictions.  
+To ensure that we use the most appropriate models, we also created neural network linear models and compared model performance.  We found that overall, model performance was generally better with the simple linear models.  For isolated months for some features had better performance.  For rainfall data the neural network model was slightly better.  Though the impact to our predictions would have been very minimal.  With greater customization of the various options, neural networks could prove to provide better experience at some point.  However, due to the simplicity and ease of use and interpretation, we decided to use the simple linear models for all predictions.  
 
 ## Model performance
 
@@ -47,12 +47,12 @@ Model performance varied.  Some factors influencing this include:
 
 ![model_mse](https://user-images.githubusercontent.com/82730954/135939879-28679f09-6164-471b-9c31-50c2fb40d92e.png)
 
-During our presentation, we were asked about r2 scores which we had not originally captured.  We reran the model, this time adding a random_state value, and the r2 scores of our updated model are shown below.  There is not a strong correlation between our values and the weather can be difficult to predict precisely.  This is even true for meterologists predicting tomorrow's weather.  Since our project was to show the big picture for our travelers and we created prediction ranges instead of trying to predict precise values, we're hopeful our predictions will both be helpful to travelers and reasonably accurate.
+During our presentation, we were asked about r2 scores which we had not originally captured.  We reran the models, this time adding a random_state value, and the r2 scores of our updated models are shown below.  There is not a strong correlation between our values and the weather can be difficult to predict precisely.  This is even true for meterologists predicting tomorrow's weather.  Since our project was to show the big picture for our travelers and we created prediction ranges instead of trying to predict precise values, we're hopeful our predictions will both be helpful to travelers and reasonably accurate.
 
 ![model_r2_scores](https://user-images.githubusercontent.com/82730954/136451573-d80d1546-83bd-4b64-8f43-37abaf80f04c.png)
 
 
-Full model results and performance are included in the appendix below.
+Full results and performance are included in the appendix below.
 
 For future analysis, we should compare our predictions to the actual weather conditions for each month for 2022 and 2023.  This will allow us to evaluate the effectiveness of our models and prediction approach.
 
@@ -111,21 +111,41 @@ Latitude and longitude coordinates were added to this dataset.  Upon pivoting th
 
 # Appendix
 
-## High temperature model
+## High temperature models
 
 ![high_temp_model_results](https://user-images.githubusercontent.com/82730954/135890535-8ca84216-a579-48b2-85c6-4b1f30328898.PNG)
 
 
-## Precipitation model results
+## Precipitation models
 
 ![precip_model_results](https://user-images.githubusercontent.com/82730954/135890616-8624e22b-626f-4a1c-9cc9-4b03da48c149.png)
 
 
-## NYC snowfall model results
+## NYC snowfall models
 
 ![snowfall_model_results](https://user-images.githubusercontent.com/82730954/135890649-b8bbb2a8-10b5-450d-8a2c-c2a16bc9eeac.png)
 
 
-## London sunshine model results
+## London sunshine models
 
 ![sunshine_model_results](https://user-images.githubusercontent.com/82730954/135890676-b4e9b1fb-8826-4c32-ac78-e5e00b0c6089.png)
+
+## New models including r2 scores
+
+Below are outputs, including r2 scores, from new models.  Because we did not use a random_state value in earlier stages of our models, the outputs from these models differ and cannot be compared directly to the results above.  Next time, we would use a random_state value throughout to increase consistency and reduce pain points.
+
+### New high temp models with r2 scores
+
+![r2_high_temp_model_results](https://user-images.githubusercontent.com/82730954/136567832-5f66df30-0268-4ebf-b6c9-00f6de92ce45.png)
+
+### New precipitation models with r2 scores
+
+![r2_precip_model_results](https://user-images.githubusercontent.com/82730954/136567860-5e70568a-3810-44a8-9424-e759f6488485.png)
+
+### New NYC snowfall models with r2 scores
+
+![r2_snowfall_model_results](https://user-images.githubusercontent.com/82730954/136567887-444285cc-31e6-49bd-b2bb-b5a5999d6c70.png)
+
+### New London sunshine models with r2 scores
+
+![r2_sunshine_model_results](https://user-images.githubusercontent.com/82730954/136568249-ab252b9b-5c9f-4011-9f78-2cdd74f57c37.png)
